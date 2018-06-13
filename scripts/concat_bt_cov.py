@@ -18,13 +18,27 @@ for f_ in files_:
     pct_cov.append(df_pos.pct.copy())
     colnames.append(col_)
 
-bp_df = pd.concat(bp_covs, axis=1, keys=colnames)
-pct_df = pd.concat(pct_cov, axis=1, keys=colnames)
-
+bp_df = pd.concat(bp_covs, axis=1, keys=colnames, sort=True)
+pct_df = pd.concat(pct_cov, axis=1, keys=colnames, sort=True)
+read_counts = {"SERC_517_10":9205219, "SERC_517_11":6231528, 
+               "SERC_517_12":11040193, "SERC_517_13":10624630, 
+               "SERC_517_3":17642729, "SERC_517_4":13726512, 
+               "SERC_517_5":8490889, "SERC_517_6":13663106, 
+               "SERC_517_7":12027351, "SERC_517_8":11103784, 
+               "SERC_517_9":4106160, "SERC_Zymo_Pos_Control":9458841}
+rc_df = pd.DataFrame(read_counts, index=["read_count"])
 writer = pd.ExcelWriter('../data/viral_refseq_coverage.xlsx', engine='xlsxwriter')
 
+col_order = ["SERC_517_3", "SERC_517_4",
+             "SERC_517_5", "SERC_517_6",
+             "SERC_517_7", "SERC_517_8",
+             "SERC_517_9", "SERC_517_10",
+             "SERC_517_11","SERC_517_12",
+             "SERC_517_13","SERC_Zymo_Pos_Control"]
+
 # Convert the dataframe to an XlsxWriter Excel object.
-pct_df.to_excel(writer, sheet_name='Pct_Genome_Covered')
-bp_df.to_excel(writer, sheet_name='Bases_Covered')
+pct_df.ix[:, col_order].to_excel(writer, sheet_name='Pct_Genome_Covered')
+bp_df.ix[:, col_order].to_excel(writer, sheet_name='Bases_Covered')
+rc_df.ix[:, col_order].to_excel(writer, sheet_name='Read_Count')
 # Close the Pandas Excel writer and output the Excel file.
 writer.save()
