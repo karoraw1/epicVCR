@@ -26,29 +26,29 @@ LIB_DIR=../SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs
 MY_BWA=/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/Scripts/bwa
 V_REF2=$W_D_/`basename $V_REF`
 
-#mkdir $W_D_; mkdir $W_D_/Map
-#cp $V_REF $W_D_
-#$MY_BWA index $V_REF2
+mkdir -p $W_D_; mkdir -p $W_D_/Map
+cp $V_REF $W_D_
+$MY_BWA index $V_REF2
 
-#source activate pyDesman
-#python3 ../repos/DESMAN/scripts/Lengths.py -i $V_REF2 > $W_D_/viral_genomes.len
-#source deactivate
+source activate pyDesman
+python3 ../repos/DESMAN/scripts/Lengths.py -i $V_REF2 > $W_D_/viral_genomes.len
+source deactivate
 
-#for file in $LIB_DIR/*_1.fastq
-#do 
-#   stub=${file%_1.fastq}
-#   file2=${stub}_2.fastq   
-#   baseStub=`basename $stub`
-#   echo $baseStub
-#   $MY_BWA mem -t 48 $V_REF2 $file $file2 > $W_D_/Map/${baseStub}.sam
-#done
+for file in $LIB_DIR/*_1.fastq
+do 
+   stub=${file%_1.fastq}
+   file2=${stub}_2.fastq   
+   baseStub=`basename $stub`
+   echo $baseStub
+   $MY_BWA mem -t 48 $V_REF2 $file $file2 > $W_D_/Map/${baseStub}.sam
+done
 
 for file in $W_D_/Map/*.sam
 do
     stub=${file%.sam}
     echo $stub
-#    samtools view -@ 24 -h -b -S $file > ${stub}.bam;
-#    samtools view -@ 24 -b -F 4 ${stub}.bam > ${stub}.mapped.bam; 
-#    samtools sort -@ 24 ${stub}.mapped.bam -o ${stub}.mapped.sorted.bam; 
+    samtools view -@ 24 -h -b -S $file > ${stub}.bam;
+    samtools view -@ 24 -b -F 4 ${stub}.bam > ${stub}.mapped.bam; 
+    samtools sort -@ 24 ${stub}.mapped.bam -o ${stub}.mapped.sorted.bam; 
     bedtools genomecov -max 1 -ibam ${stub}.mapped.sorted.bam -g $W_D_/viral_genomes.len > ${stub}_cov2.txt
 done
