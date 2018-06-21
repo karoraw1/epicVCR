@@ -1,18 +1,23 @@
+#!/bin/bash -l
 
-_exed_=/home-3/karoraw1@jhu.edu/scratch/THRASH_LIBS/mummer-4.0.0beta2
-_qbd_=/home-3/karoraw1@jhu.edu/scratch/THRASH_LIBS/BIN_REASSEMBLY/reassembled_bins
-_rbd_=/home-3/karoraw1@jhu.edu/scratch/THRASH_LIBS/REFERENCE_BINS/just_sequences
-_matches_=/home-3/karoraw1@jhu.edu/scratch/THRASH_LIBS/REFERENCE_BINS/mash_sketches/mwR_containment/master_containment.tsv
+#SBATCH
 
-while read _q_ _r_ _qn_ _rn_; do
-  #$_exed_/nucmer --mum $_rbd_/$_r_ $_qbd_/$_q_ -t 24 -p ${_qn_}${_rn_}
-  j=$(basename $_qn_$_rn_ .delta)
-  $_exed_/delta-filter -l 1000 -q ${_qn_}${_rn_}.delta > ${j}_filter.delta
-  $_exed_/show-coords -c -l -L 1000 -r -T ${j}_filter.delta | gzip > ${j}_filter_coords.txt.gz
-  echo $j
-done < $_matches_
+#SBATCH --job-name=vir2con
+#SBATCH --time=12:00:00
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=48
+#SBATCH --mem=500GB
+#SBATCH --exclusive
+#SBATCH --partition=lrgmem
+#SBATCH --mail-type=END
+#SBATCH --mail-user=k.arorawilliams2@gmail.com
 
-#https://taylorreiter.github.io/2017-08-10-Visualizing-NUCmer-Output/
-#j=$(basename $infile .delta)
-#delta-filter -l 1000 -q ${infile} > ${j}_filter.delta
-#show-coords -c -l -L 1000 -r -T ${j}_filter.delta | gzip > ${j}_filter_coords.txt.gz
+MUM_D=../bin/mummer-4.0.0beta2
+QRY_=../../../SERC_051717_Shotgun_Metagenomes/CoAssembly/final.contigs.fa
+REF_=../../../SERC_051717_Shotgun_Metagenomes/Virus_Coverage/viral_genomes.fasta
+O_ROOT=../data/virus_to_contig_alignment
+
+$MUM_D/nucmer --mum $REF_ $QRY_ -t 48 -p $O_ROOT
+$MUM_D/delta-filter -l 1000 -q ${O_ROOT}.delta > ${O_ROOT}_filter.delta
+$MUM_D/show-coords -c -l -L 1000 -r -T ${O_ROOT}_filter.delta | gzip > ${O_ROOT}_filter_coords.txt.gz
+
