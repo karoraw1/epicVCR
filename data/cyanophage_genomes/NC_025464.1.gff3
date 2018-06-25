@@ -1,0 +1,100 @@
+##sequence-region NC_025464.1 1 44147
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=754059
+NC_025464.1	RefSeq	region	1	44147	.	+	.	ID=id-1;Dbxref=taxon:754059;Is_circular=true;collection-date=15-Jul-2007;gbkey=Src;genome=genomic;isolation-source=Chesapeake Bay water;mol_type=genomic DNA;nat-host=Synechococcus sp. CB0101
+NC_025464.1	RefSeq	gene	257	652	.	-	.	ID=gene-S-CBP4_0001;Dbxref=GeneID:22112704;Name=S-CBP4_0001;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0001
+NC_025464.1	RefSeq	CDS	257	652	.	-	0	ID=cds-YP_009103772.1;Parent=gene-S-CBP4_0001;Dbxref=Genbank:YP_009103772.1,GeneID:22112704;Name=YP_009103772.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103772.1;transl_table=11
+NC_025464.1	RefSeq	gene	668	838	.	+	.	ID=gene-S-CBP4_0002;Dbxref=GeneID:22112656;Name=S-CBP4_0002;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0002
+NC_025464.1	RefSeq	CDS	668	838	.	+	0	ID=cds-YP_009103773.1;Parent=gene-S-CBP4_0002;Dbxref=Genbank:YP_009103773.1,GeneID:22112656;Name=YP_009103773.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103773.1;transl_table=11
+NC_025464.1	RefSeq	gene	1256	1558	.	+	.	ID=gene-S-CBP4_0003;Dbxref=GeneID:22112657;Name=S-CBP4_0003;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0003
+NC_025464.1	RefSeq	CDS	1256	1558	.	+	0	ID=cds-YP_009103774.1;Parent=gene-S-CBP4_0003;Dbxref=Genbank:YP_009103774.1,GeneID:22112657;Name=YP_009103774.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103774.1;transl_table=11
+NC_025464.1	RefSeq	gene	1897	2139	.	+	.	ID=gene-S-CBP4_0004;Dbxref=GeneID:22112658;Name=S-CBP4_0004;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0004
+NC_025464.1	RefSeq	CDS	1897	2139	.	+	0	ID=cds-YP_009103775.1;Parent=gene-S-CBP4_0004;Dbxref=Genbank:YP_009103775.1,GeneID:22112658;Name=YP_009103775.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103775.1;transl_table=11
+NC_025464.1	RefSeq	gene	2139	2300	.	+	.	ID=gene-S-CBP4_0005;Dbxref=GeneID:22112659;Name=S-CBP4_0005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0005
+NC_025464.1	RefSeq	CDS	2139	2300	.	+	0	ID=cds-YP_009103776.1;Parent=gene-S-CBP4_0005;Dbxref=Genbank:YP_009103776.1,GeneID:22112659;Name=YP_009103776.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103776.1;transl_table=11
+NC_025464.1	RefSeq	gene	2300	2581	.	+	.	ID=gene-S-CBP4_0006;Dbxref=GeneID:22112660;Name=S-CBP4_0006;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0006
+NC_025464.1	RefSeq	CDS	2300	2581	.	+	0	ID=cds-YP_009103777.1;Parent=gene-S-CBP4_0006;Dbxref=Genbank:YP_009103777.1,GeneID:22112660;Name=YP_009103777.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103777.1;transl_table=11
+NC_025464.1	RefSeq	gene	2565	2786	.	+	.	ID=gene-S-CBP4_0007;Dbxref=GeneID:22112661;Name=S-CBP4_0007;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0007
+NC_025464.1	RefSeq	CDS	2565	2786	.	+	0	ID=cds-YP_009103778.1;Parent=gene-S-CBP4_0007;Dbxref=Genbank:YP_009103778.1,GeneID:22112661;Name=YP_009103778.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103778.1;transl_table=11
+NC_025464.1	RefSeq	gene	2993	3307	.	+	.	ID=gene-S-CBP4_0008;Dbxref=GeneID:22112662;Name=S-CBP4_0008;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0008
+NC_025464.1	RefSeq	CDS	2993	3307	.	+	0	ID=cds-YP_009103779.1;Parent=gene-S-CBP4_0008;Dbxref=Genbank:YP_009103779.1,GeneID:22112662;Name=YP_009103779.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103779.1;transl_table=11
+NC_025464.1	RefSeq	gene	3304	3420	.	+	.	ID=gene-S-CBP4_0009;Dbxref=GeneID:22112663;Name=S-CBP4_0009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0009
+NC_025464.1	RefSeq	CDS	3304	3420	.	+	0	ID=cds-YP_009103780.1;Parent=gene-S-CBP4_0009;Dbxref=Genbank:YP_009103780.1,GeneID:22112663;Name=YP_009103780.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103780.1;transl_table=11
+NC_025464.1	RefSeq	gene	3420	5756	.	+	.	ID=gene-S-CBP4_0010;Dbxref=GeneID:22112664;Name=S-CBP4_0010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0010
+NC_025464.1	RefSeq	CDS	3420	5756	.	+	0	ID=cds-YP_009103781.1;Parent=gene-S-CBP4_0010;Dbxref=Genbank:YP_009103781.1,GeneID:22112664;Name=YP_009103781.1;gbkey=CDS;product=RNA polymerase;protein_id=YP_009103781.1;transl_table=11
+NC_025464.1	RefSeq	gene	5756	6322	.	+	.	ID=gene-S-CBP4_0011;Dbxref=GeneID:22112665;Name=S-CBP4_0011;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0011
+NC_025464.1	RefSeq	CDS	5756	6322	.	+	0	ID=cds-YP_009103782.1;Parent=gene-S-CBP4_0011;Dbxref=Genbank:YP_009103782.1,GeneID:22112665;Name=YP_009103782.1;gbkey=CDS;product=ssDNA binding protein;protein_id=YP_009103782.1;transl_table=11
+NC_025464.1	RefSeq	gene	6322	6675	.	+	.	ID=gene-S-CBP4_0012;Dbxref=GeneID:22112666;Name=S-CBP4_0012;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0012
+NC_025464.1	RefSeq	CDS	6322	6675	.	+	0	ID=cds-YP_009103783.1;Parent=gene-S-CBP4_0012;Dbxref=Genbank:YP_009103783.1,GeneID:22112666;Name=YP_009103783.1;gbkey=CDS;product=endonuclease;protein_id=YP_009103783.1;transl_table=11
+NC_025464.1	RefSeq	gene	6663	6872	.	+	.	ID=gene-S-CBP4_0013;Dbxref=GeneID:22112667;Name=S-CBP4_0013;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0013
+NC_025464.1	RefSeq	CDS	6663	6872	.	+	0	ID=cds-YP_009103784.1;Parent=gene-S-CBP4_0013;Dbxref=Genbank:YP_009103784.1,GeneID:22112667;Name=YP_009103784.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103784.1;transl_table=11
+NC_025464.1	RefSeq	gene	6829	8411	.	+	.	ID=gene-S-CBP4_0014;Dbxref=GeneID:22112668;Name=primase/helicase;Note=disrupted by frameshift;description=primase/helicase;gbkey=Gene;gene=primase/helicase;gene_biotype=other;locus_tag=S-CBP4_0014
+NC_025464.1	RefSeq	gene	8658	10405	.	+	.	ID=gene-S-CBP4_0015;Dbxref=GeneID:22112669;Name=DNA polymerase;Note=disrupted by frameshift;description=DNA polymerase;gbkey=Gene;gene=DNA polymerase;gene_biotype=other;locus_tag=S-CBP4_0015
+NC_025464.1	RefSeq	gene	10551	11321	.	+	.	ID=gene-S-CBP4_0016;Dbxref=GeneID:22112670;Name=S-CBP4_0016;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0016
+NC_025464.1	RefSeq	CDS	10551	11321	.	+	0	ID=cds-YP_009103785.1;Parent=gene-S-CBP4_0016;Dbxref=Genbank:YP_009103785.1,GeneID:22112670;Name=YP_009103785.1;gbkey=CDS;product=exonuclease;protein_id=YP_009103785.1;transl_table=11
+NC_025464.1	RefSeq	gene	11308	11520	.	+	.	ID=gene-S-CBP4_0017;Dbxref=GeneID:22112671;Name=S-CBP4_0017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0017
+NC_025464.1	RefSeq	CDS	11308	11520	.	+	0	ID=cds-YP_009103786.1;Parent=gene-S-CBP4_0017;Dbxref=Genbank:YP_009103786.1,GeneID:22112671;Name=YP_009103786.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103786.1;transl_table=11
+NC_025464.1	RefSeq	gene	11629	12009	.	+	.	ID=gene-S-CBP4_0018;Dbxref=GeneID:22112672;Name=S-CBP4_0018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0018
+NC_025464.1	RefSeq	CDS	11629	12009	.	+	0	ID=cds-YP_009103787.1;Parent=gene-S-CBP4_0018;Dbxref=Genbank:YP_009103787.1,GeneID:22112672;Name=YP_009103787.1;gbkey=CDS;product=MazG nucleotide pyrophosphohydrolase;protein_id=YP_009103787.1;transl_table=11
+NC_025464.1	RefSeq	gene	12126	13424	.	+	.	ID=gene-S-CBP4_0019;Dbxref=GeneID:22112673;Name=S-CBP4_0019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0019
+NC_025464.1	RefSeq	CDS	12126	13424	.	+	0	ID=cds-YP_009103788.1;Parent=gene-S-CBP4_0019;Dbxref=Genbank:YP_009103788.1,GeneID:22112673;Name=YP_009103788.1;gbkey=CDS;product=class I ribonucleotide reductase alpha subunit;protein_id=YP_009103788.1;transl_table=11
+NC_025464.1	RefSeq	STS	13278	13582	.	+	.	ID=id-NC_025464.1:13278..13582;Dbxref=UniSTS:474273;gbkey=STS;standard_name=D1S3695
+NC_025464.1	RefSeq	gene	13421	14038	.	+	.	ID=gene-S-CBP4_0020;Dbxref=GeneID:22112674;Name=S-CBP4_0020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0020
+NC_025464.1	RefSeq	CDS	13421	14038	.	+	0	ID=cds-YP_009103789.1;Parent=gene-S-CBP4_0020;Dbxref=Genbank:YP_009103789.1,GeneID:22112674;Name=YP_009103789.1;gbkey=CDS;product=class I ribonucleotide reductase beta subunit;protein_id=YP_009103789.1;transl_table=11
+NC_025464.1	RefSeq	gene	14105	14302	.	+	.	ID=gene-S-CBP4_0021;Dbxref=GeneID:22112675;Name=S-CBP4_0021;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0021
+NC_025464.1	RefSeq	CDS	14105	14302	.	+	0	ID=cds-YP_009103790.1;Parent=gene-S-CBP4_0021;Dbxref=Genbank:YP_009103790.1,GeneID:22112675;Name=YP_009103790.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103790.1;transl_table=11
+NC_025464.1	RefSeq	gene	14295	15170	.	+	.	ID=gene-S-CBP4_0022;Dbxref=GeneID:22112676;Name=S-CBP4_0022;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0022
+NC_025464.1	RefSeq	CDS	14295	15170	.	+	0	ID=cds-YP_009103791.1;Parent=gene-S-CBP4_0022;Dbxref=Genbank:YP_009103791.1,GeneID:22112676;Name=YP_009103791.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103791.1;transl_table=11
+NC_025464.1	RefSeq	gene	15170	16744	.	+	.	ID=gene-S-CBP4_0023;Dbxref=GeneID:22112677;Name=S-CBP4_0023;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0023
+NC_025464.1	RefSeq	CDS	15170	16744	.	+	0	ID=cds-YP_009103792.1;Parent=gene-S-CBP4_0023;Dbxref=Genbank:YP_009103792.1,GeneID:22112677;Name=YP_009103792.1;gbkey=CDS;product=head-to-tail connector (portal);protein_id=YP_009103792.1;transl_table=11
+NC_025464.1	RefSeq	gene	16897	17676	.	+	.	ID=gene-S-CBP4_0024;Dbxref=GeneID:22112678;Name=S-CBP4_0024;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0024
+NC_025464.1	RefSeq	CDS	16897	17676	.	+	0	ID=cds-YP_009103793.1;Parent=gene-S-CBP4_0024;Dbxref=Genbank:YP_009103793.1,GeneID:22112678;Name=YP_009103793.1;gbkey=CDS;product=capsid assembly protein (scaffold);protein_id=YP_009103793.1;transl_table=11
+NC_025464.1	RefSeq	gene	17666	17857	.	+	.	ID=gene-S-CBP4_0025;Dbxref=GeneID:22112679;Name=S-CBP4_0025;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0025
+NC_025464.1	RefSeq	CDS	17666	17857	.	+	0	ID=cds-YP_009103794.1;Parent=gene-S-CBP4_0025;Dbxref=Genbank:YP_009103794.1,GeneID:22112679;Name=YP_009103794.1;gbkey=CDS;product=high light inducible protein;protein_id=YP_009103794.1;transl_table=11
+NC_025464.1	RefSeq	gene	18137	18328	.	+	.	ID=gene-S-CBP4_0026;Dbxref=GeneID:22112680;Name=S-CBP4_0026;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0026
+NC_025464.1	RefSeq	CDS	18137	18328	.	+	0	ID=cds-YP_009103795.1;Parent=gene-S-CBP4_0026;Dbxref=Genbank:YP_009103795.1,GeneID:22112680;Name=YP_009103795.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103795.1;transl_table=11
+NC_025464.1	RefSeq	gene	18673	19734	.	+	.	ID=gene-S-CBP4_0027;Dbxref=GeneID:22112681;Name=S-CBP4_0027;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0027
+NC_025464.1	RefSeq	CDS	18673	19734	.	+	0	ID=cds-YP_009103796.1;Parent=gene-S-CBP4_0027;Dbxref=Genbank:YP_009103796.1,GeneID:22112681;Name=YP_009103796.1;gbkey=CDS;product=photosystem II D1 protein;protein_id=YP_009103796.1;transl_table=11
+NC_025464.1	RefSeq	gene	20116	21135	.	+	.	ID=gene-S-CBP4_0028;Dbxref=GeneID:22112682;Name=S-CBP4_0028;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0028
+NC_025464.1	RefSeq	CDS	20116	21135	.	+	0	ID=cds-YP_009103797.1;Parent=gene-S-CBP4_0028;Dbxref=Genbank:YP_009103797.1,GeneID:22112682;Name=YP_009103797.1;gbkey=CDS;product=major capsid protein;protein_id=YP_009103797.1;transl_table=11
+NC_025464.1	RefSeq	gene	21151	21312	.	+	.	ID=gene-S-CBP4_0029;Dbxref=GeneID:22112683;Name=S-CBP4_0029;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0029
+NC_025464.1	RefSeq	CDS	21151	21312	.	+	0	ID=cds-YP_009103798.1;Parent=gene-S-CBP4_0029;Dbxref=Genbank:YP_009103798.1,GeneID:22112683;Name=YP_009103798.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103798.1;transl_table=11
+NC_025464.1	RefSeq	gene	21357	21536	.	+	.	ID=gene-S-CBP4_0030;Dbxref=GeneID:22112684;Name=S-CBP4_0030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0030
+NC_025464.1	RefSeq	CDS	21357	21536	.	+	0	ID=cds-YP_009103799.1;Parent=gene-S-CBP4_0030;Dbxref=Genbank:YP_009103799.1,GeneID:22112684;Name=YP_009103799.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103799.1;transl_table=11
+NC_025464.1	RefSeq	gene	21592	22260	.	+	.	ID=gene-S-CBP4_0031;Dbxref=GeneID:22112685;Name=S-CBP4_0031;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0031
+NC_025464.1	RefSeq	CDS	21592	22260	.	+	0	ID=cds-YP_009103800.1;Parent=gene-S-CBP4_0031;Dbxref=Genbank:YP_009103800.1,GeneID:22112685;Name=YP_009103800.1;gbkey=CDS;product=tail tubular protein A;protein_id=YP_009103800.1;transl_table=11
+NC_025464.1	RefSeq	gene	22260	24752	.	+	.	ID=gene-S-CBP4_0032;Dbxref=GeneID:22112686;Name=S-CBP4_0032;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0032
+NC_025464.1	RefSeq	CDS	22260	24752	.	+	0	ID=cds-YP_009103801.1;Parent=gene-S-CBP4_0032;Dbxref=Genbank:YP_009103801.1,GeneID:22112686;Name=YP_009103801.1;gbkey=CDS;product=tail tubular protein B;protein_id=YP_009103801.1;transl_table=11
+NC_025464.1	RefSeq	gene	24755	25996	.	+	.	ID=gene-S-CBP4_0033;Dbxref=GeneID:22112687;Name=S-CBP4_0033;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0033
+NC_025464.1	RefSeq	CDS	24755	25996	.	+	0	ID=cds-YP_009103802.1;Parent=gene-S-CBP4_0033;Dbxref=Genbank:YP_009103802.1,GeneID:22112687;Name=YP_009103802.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103802.1;transl_table=11
+NC_025464.1	RefSeq	gene	26013	29117	.	+	.	ID=gene-S-CBP4_0034;Dbxref=GeneID:22112688;Name=S-CBP4_0034;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0034
+NC_025464.1	RefSeq	CDS	26013	29117	.	+	0	ID=cds-YP_009103803.1;Parent=gene-S-CBP4_0034;Dbxref=Genbank:YP_009103803.1,GeneID:22112688;Name=YP_009103803.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103803.1;transl_table=11
+NC_025464.1	RefSeq	gene	29130	33074	.	+	.	ID=gene-S-CBP4_0035;Dbxref=GeneID:22112689;Name=S-CBP4_0035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0035
+NC_025464.1	RefSeq	CDS	29130	33074	.	+	0	ID=cds-YP_009103804.1;Parent=gene-S-CBP4_0035;Dbxref=Genbank:YP_009103804.1,GeneID:22112689;Name=YP_009103804.1;gbkey=CDS;product=internal core protein;protein_id=YP_009103804.1;transl_table=11
+NC_025464.1	RefSeq	gene	33086	34483	.	+	.	ID=gene-S-CBP4_0036;Dbxref=GeneID:22112690;Name=S-CBP4_0036;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0036
+NC_025464.1	RefSeq	CDS	33086	34483	.	+	0	ID=cds-YP_009103805.1;Parent=gene-S-CBP4_0036;Dbxref=Genbank:YP_009103805.1,GeneID:22112690;Name=YP_009103805.1;gbkey=CDS;product=tail fiber;protein_id=YP_009103805.1;transl_table=11
+NC_025464.1	RefSeq	gene	34509	36506	.	+	.	ID=gene-S-CBP4_0037;Dbxref=GeneID:22112691;Name=S-CBP4_0037;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0037
+NC_025464.1	RefSeq	CDS	34509	36506	.	+	0	ID=cds-YP_009103806.1;Parent=gene-S-CBP4_0037;Dbxref=Genbank:YP_009103806.1,GeneID:22112691;Name=YP_009103806.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103806.1;transl_table=11
+NC_025464.1	RefSeq	gene	36661	36987	.	+	.	ID=gene-S-CBP4_0038;Dbxref=GeneID:22112692;Name=S-CBP4_0038;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0038
+NC_025464.1	RefSeq	CDS	36661	36987	.	+	0	ID=cds-YP_009103807.1;Parent=gene-S-CBP4_0038;Dbxref=Genbank:YP_009103807.1,GeneID:22112692;Name=YP_009103807.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103807.1;transl_table=11
+NC_025464.1	RefSeq	gene	37010	37207	.	+	.	ID=gene-S-CBP4_0039;Dbxref=GeneID:22112693;Name=S-CBP4_0039;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0039
+NC_025464.1	RefSeq	CDS	37010	37207	.	+	0	ID=cds-YP_009103808.1;Parent=gene-S-CBP4_0039;Dbxref=Genbank:YP_009103808.1,GeneID:22112693;Name=YP_009103808.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103808.1;transl_table=11
+NC_025464.1	RefSeq	gene	37674	38575	.	+	.	ID=gene-S-CBP4_0040;Dbxref=GeneID:22112694;Name=lysozyme;Note=disrupted by frameshift;description=lysozyme;gbkey=Gene;gene=lysozyme;gene_biotype=other;locus_tag=S-CBP4_0040
+NC_025464.1	RefSeq	gene	38568	38801	.	+	.	ID=gene-S-CBP4_0041;Dbxref=GeneID:22112695;Name=S-CBP4_0041;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0041
+NC_025464.1	RefSeq	CDS	38568	38801	.	+	0	ID=cds-YP_009103809.1;Parent=gene-S-CBP4_0041;Dbxref=Genbank:YP_009103809.1,GeneID:22112695;Name=YP_009103809.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103809.1;transl_table=11
+NC_025464.1	RefSeq	gene	38794	39045	.	+	.	ID=gene-S-CBP4_0042;Dbxref=GeneID:22112696;Name=S-CBP4_0042;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0042
+NC_025464.1	RefSeq	CDS	38794	39045	.	+	0	ID=cds-YP_009103810.1;Parent=gene-S-CBP4_0042;Dbxref=Genbank:YP_009103810.1,GeneID:22112696;Name=YP_009103810.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103810.1;transl_table=11
+NC_025464.1	RefSeq	gene	39026	39292	.	+	.	ID=gene-S-CBP4_0043;Dbxref=GeneID:22112697;Name=S-CBP4_0043;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0043
+NC_025464.1	RefSeq	CDS	39026	39292	.	+	0	ID=cds-YP_009103811.1;Parent=gene-S-CBP4_0043;Dbxref=Genbank:YP_009103811.1,GeneID:22112697;Name=YP_009103811.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103811.1;transl_table=11
+NC_025464.1	RefSeq	gene	39403	39537	.	+	.	ID=gene-S-CBP4_0044;Dbxref=GeneID:22112698;Name=S-CBP4_0044;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0044
+NC_025464.1	RefSeq	CDS	39403	39537	.	+	0	ID=cds-YP_009103812.1;Parent=gene-S-CBP4_0044;Dbxref=Genbank:YP_009103812.1,GeneID:22112698;Name=YP_009103812.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103812.1;transl_table=11
+NC_025464.1	RefSeq	gene	39596	40246	.	+	.	ID=gene-S-CBP4_0045;Dbxref=GeneID:22112699;Name=S-CBP4_0045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0045
+NC_025464.1	RefSeq	CDS	39596	40246	.	+	0	ID=cds-YP_009103813.1;Parent=gene-S-CBP4_0045;Dbxref=Genbank:YP_009103813.1,GeneID:22112699;Name=YP_009103813.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103813.1;transl_table=11
+NC_025464.1	RefSeq	gene	40318	40692	.	+	.	ID=gene-S-CBP4_0046;Dbxref=GeneID:22112700;Name=S-CBP4_0046;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0046
+NC_025464.1	RefSeq	CDS	40318	40692	.	+	0	ID=cds-YP_009103814.1;Parent=gene-S-CBP4_0046;Dbxref=Genbank:YP_009103814.1,GeneID:22112700;Name=YP_009103814.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103814.1;transl_table=11
+NC_025464.1	RefSeq	gene	40689	42461	.	+	.	ID=gene-S-CBP4_0047;Dbxref=GeneID:22112701;Name=S-CBP4_0047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0047
+NC_025464.1	RefSeq	CDS	40689	42461	.	+	0	ID=cds-YP_009103815.1;Parent=gene-S-CBP4_0047;Dbxref=Genbank:YP_009103815.1,GeneID:22112701;Name=YP_009103815.1;gbkey=CDS;product=DNA maturase B (terminase);protein_id=YP_009103815.1;transl_table=11
+NC_025464.1	RefSeq	gene	42894	43532	.	+	.	ID=gene-S-CBP4_0048;Dbxref=GeneID:22112702;Name=S-CBP4_0048;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0048
+NC_025464.1	RefSeq	CDS	42894	43532	.	+	0	ID=cds-YP_009103816.1;Parent=gene-S-CBP4_0048;Dbxref=Genbank:YP_009103816.1,GeneID:22112702;Name=YP_009103816.1;gbkey=CDS;product=thymidylate synthase;protein_id=YP_009103816.1;transl_table=11
+NC_025464.1	RefSeq	gene	43670	43966	.	+	.	ID=gene-S-CBP4_0049;Dbxref=GeneID:22112703;Name=S-CBP4_0049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=S-CBP4_0049
+NC_025464.1	RefSeq	CDS	43670	43966	.	+	0	ID=cds-YP_009103817.1;Parent=gene-S-CBP4_0049;Dbxref=Genbank:YP_009103817.1,GeneID:22112703;Name=YP_009103817.1;gbkey=CDS;product=hypothetical protein;protein_id=YP_009103817.1;transl_table=11
+

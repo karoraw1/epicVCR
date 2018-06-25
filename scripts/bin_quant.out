@@ -1,0 +1,236 @@
+/home-3/karoraw1@jhu.edu/scratch/miniconda2/envs/metawrap2-env/bin/metawrap-modules/quant_bins.sh -t 24 -b ../data/Bins/maxbin2_bins -o /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant -a /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/CoAssembly/final.contigs.fa /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_2.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_1.fastq /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_2.fastq
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 12 forward and 12 reverse read files detected                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+########################################################################################################################
+#####                                    SETTING UP OUTPUT AND INDEXING ASSEMBLY                                   #####
+########################################################################################################################
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                            Indexing assembly file with salmon. Ignore any warnings                           -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+########################################################################################################################
+#####                           ALIGNING READS FROM ALL SAMPLES BACK TO BINS WITH SALMON                           #####
+########################################################################################################################
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                   processing sample SERC_517_10 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                   processing sample SERC_517_11 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                   processing sample SERC_517_12 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                   processing sample SERC_517_13 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_3 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_4 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_5 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_6 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_7 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_8 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                    processing sample SERC_517_9 with reads                                   -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                              processing sample SERC_Zymo_Pos_Control with reads                              -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_1.fastq-----
+-----                                                     and                                                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_2.fastq...-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                           summarize salmon files...                                          -----
+------------------------------------------------------------------------------------------------------------------------
+
+"SERC_517_10.quant.counts",
+"SERC_517_11.quant.counts",
+"SERC_517_12.quant.counts",
+"SERC_517_13.quant.counts",
+"SERC_517_3.quant.counts",
+"SERC_517_4.quant.counts",
+"SERC_517_5.quant.counts",
+"SERC_517_6.quant.counts",
+"SERC_517_7.quant.counts",
+"SERC_517_8.quant.counts",
+"SERC_517_9.quant.counts",
+"SERC_Zymo_Pos_Control.quant.counts"
+
+########################################################################################################################
+#####                                   EXTRACTING AVERAGE ABUNDANCE OF EACH BIN                                   #####
+########################################################################################################################
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                            There were 12 samples detected. Making abundance table!                           -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                     Average bin abundance table stored in                                    -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/abundance_table.tab-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+########################################################################################################################
+#####                                 MAKING GENOME ABUNDANCE HEATMAP WITH SEABORN                                 #####
+########################################################################################################################
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                       counting reads in each sample for standardization, and storing in                      -----
+-----/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/sample_read_count.tab-----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                finished counting reads in SERC_517_11_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_9_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                           finished counting reads in SERC_Zymo_Pos_Control_1.fastq                           -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                finished counting reads in SERC_517_10_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                finished counting reads in SERC_517_13_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_8_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_6_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_5_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_3_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_7_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                 finished counting reads in SERC_517_4_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                finished counting reads in SERC_517_12_1.fastq                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                                 make heatmap                                                 -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+-----                                                cleaning up...                                                -----
+------------------------------------------------------------------------------------------------------------------------
+
+
+########################################################################################################################
+#####                                 QUANT_BINS PIPELINE SUCCESSFULLY FINISHED!!!                                 #####
+########################################################################################################################
+
