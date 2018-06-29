@@ -1,1061 +1,0 @@
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-index ["/home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index"] did not previously exist  . . . creating it
-[2018-06-24 15:46:37.041] [jLog] [info] building index
-RapMap Indexer
-
-[Step 1 of 4] : counting k-mers
-counted k-mers for 10000 transcripts[2018-06-24 15:46:38.587] [jointLog] [warning] Entry with header [k141_44209] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 20000 transcriptscounted k-mers for 30000 transcriptscounted k-mers for 40000 transcriptscounted k-mers for 50000 transcriptscounted k-mers for 60000 transcripts[2018-06-24 15:46:45.952] [jointLog] [warning] Entry with header [k141_286352] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 70000 transcripts[2018-06-24 15:46:46.877] [jointLog] [warning] Entry with header [k141_318524] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 80000 transcripts[2018-06-24 15:46:48.110] [jointLog] [warning] Entry with header [k141_363203] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-[2018-06-24 15:46:49.450] [jointLog] [warning] Entry with header [k141_406463] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 90000 transcriptscounted k-mers for 100000 transcriptscounted k-mers for 110000 transcripts[2018-06-24 15:46:52.328] [jointLog] [warning] Entry with header [k141_515236] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 120000 transcripts[2018-06-24 15:46:54.662] [jointLog] [warning] Entry with header [k141_597702] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 130000 transcriptscounted k-mers for 140000 transcriptscounted k-mers for 150000 transcripts[2018-06-24 15:46:57.172] [jointLog] [warning] Entry with header [k141_696670] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-[2018-06-24 15:46:57.961] [jointLog] [warning] Entry with header [k141_728945] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 160000 transcriptscounted k-mers for 170000 transcriptscounted k-mers for 180000 transcriptscounted k-mers for 190000 transcripts[2018-06-24 15:47:02.379] [jointLog] [warning] Entry with header [k141_919232] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 200000 transcriptscounted k-mers for 210000 transcripts[2018-06-24 15:47:04.758] [jointLog] [warning] Entry with header [k141_1010296] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 220000 transcripts[2018-06-24 15:47:06.667] [jointLog] [warning] Entry with header [k141_1096634] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 230000 transcriptscounted k-mers for 240000 transcripts[2018-06-24 15:47:08.461] [jointLog] [warning] Entry with header [k141_1181918] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-[2018-06-24 15:47:08.557] [jointLog] [warning] Entry with header [k141_1185889] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 250000 transcripts[2018-06-24 15:47:09.957] [jointLog] [warning] Entry with header [k141_1251984] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-[2018-06-24 15:47:10.136] [jointLog] [warning] Entry with header [k141_1259092] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 260000 transcriptscounted k-mers for 270000 transcriptscounted k-mers for 280000 transcriptscounted k-mers for 290000 transcriptscounted k-mers for 300000 transcripts[2018-06-24 15:47:14.852] [jointLog] [warning] Entry with header [k141_1504329] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-[2018-06-24 15:47:15.378] [jointLog] [warning] Entry with header [k141_1533967] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 310000 transcriptscounted k-mers for 320000 transcriptscounted k-mers for 330000 transcriptscounted k-mers for 340000 transcripts[2018-06-24 15:47:19.445] [jointLog] [warning] Entry with header [k141_1758450] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 350000 transcriptscounted k-mers for 360000 transcriptscounted k-mers for 370000 transcriptscounted k-mers for 380000 transcripts[2018-06-24 15:47:23.649] [jointLog] [warning] Entry with header [k141_2009660] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 390000 transcriptscounted k-mers for 400000 transcriptscounted k-mers for 410000 transcripts[2018-06-24 15:47:27.144] [jointLog] [warning] Entry with header [k141_2228516] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 420000 transcriptscounted k-mers for 430000 transcriptscounted k-mers for 440000 transcripts[2018-06-24 15:47:29.974] [jointLog] [warning] Entry with header [k141_2411191] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-counted k-mers for 450000 transcriptscounted k-mers for 460000 transcriptscounted k-mers for 470000 transcripts[2018-06-24 15:47:32.332] [jointLog] [warning] Entry with header [k141_2570370] was longer than 200000 nucleotides.  Are you certain that we are indexing a transcriptome and not a genome?
-Elapsed time: 55.4124s
-
-Replaced 0 non-ATCG nucleotides
-Clipped poly-A tails from 139 transcripts
-Building rank-select dictionary and saving to disk done
-Elapsed time: 0.130613s
-Writing sequence data to file . . . done
-Elapsed time: 3.08667s
-[info] Building 32-bit suffix array (length of generalized text is 1014239424)
-Building suffix array . . . success
-saving to disk . . . done
-Elapsed time: 7.08902s
-done
-Elapsed time: 243.446s
-processed 0 positionsprocessed 1000000 positionsprocessed 2000000 positionsprocessed 3000000 positionsprocessed 4000000 positionsprocessed 5000000 positionsprocessed 6000000 positionsprocessed 7000000 positionsprocessed 8000000 positionsprocessed 9000000 positionsprocessed 10000000 positionsprocessed 11000000 positionsprocessed 12000000 positionsprocessed 13000000 positionsprocessed 14000000 positionsprocessed 15000000 positionsprocessed 16000000 positionsprocessed 17000000 positionsprocessed 18000000 positionsprocessed 19000000 positionsprocessed 20000000 positionsprocessed 21000000 positionsprocessed 22000000 positionsprocessed 23000000 positionsprocessed 24000000 positionsprocessed 25000000 positionsprocessed 26000000 positionsprocessed 27000000 positionsprocessed 28000000 positionsprocessed 29000000 positionsprocessed 30000000 positionsprocessed 31000000 positionsprocessed 32000000 positionsprocessed 33000000 positionsprocessed 34000000 positionsprocessed 35000000 positionsprocessed 36000000 positionsprocessed 37000000 positionsprocessed 38000000 positionsprocessed 39000000 positionsprocessed 40000000 positionsprocessed 41000000 positionsprocessed 42000000 positionsprocessed 43000000 positionsprocessed 44000000 positionsprocessed 45000000 positionsprocessed 46000000 positionsprocessed 47000000 positionsprocessed 48000000 positionsprocessed 49000000 positionsprocessed 50000000 positionsprocessed 51000000 positionsprocessed 52000000 positionsprocessed 53000000 positionsprocessed 54000000 positionsprocessed 55000000 positionsprocessed 56000000 positionsprocessed 57000000 positionsprocessed 58000000 positionsprocessed 59000000 positionsprocessed 60000000 positionsprocessed 61000000 positionsprocessed 62000000 positionsprocessed 63000000 positionsprocessed 64000000 positionsprocessed 65000000 positionsprocessed 66000000 positionsprocessed 67000000 positionsprocessed 68000000 positionsprocessed 69000000 positionsprocessed 70000000 positionsprocessed 71000000 positionsprocessed 72000000 positionsprocessed 73000000 positionsprocessed 74000000 positionsprocessed 75000000 positionsprocessed 76000000 positionsprocessed 77000000 positionsprocessed 78000000 positionsprocessed 79000000 positionsprocessed 80000000 positionsprocessed 81000000 positionsprocessed 82000000 positionsprocessed 83000000 positionsprocessed 84000000 positionsprocessed 85000000 positionsprocessed 86000000 positionsprocessed 87000000 positionsprocessed 88000000 positionsprocessed 89000000 positionsprocessed 90000000 positionsprocessed 91000000 positionsprocessed 92000000 positionsprocessed 93000000 positionsprocessed 94000000 positionsprocessed 95000000 positionsprocessed 96000000 positionsprocessed 97000000 positionsprocessed 98000000 positionsprocessed 99000000 positionsprocessed 100000000 positionsprocessed 101000000 positionsprocessed 102000000 positionsprocessed 103000000 positionsprocessed 104000000 positionsprocessed 105000000 positionsprocessed 106000000 positionsprocessed 107000000 positionsprocessed 108000000 positionsprocessed 109000000 positionsprocessed 110000000 positionsprocessed 111000000 positionsprocessed 112000000 positionsprocessed 113000000 positionsprocessed 114000000 positionsprocessed 115000000 positionsprocessed 116000000 positionsprocessed 117000000 positionsprocessed 118000000 positionsprocessed 119000000 positionsprocessed 120000000 positionsprocessed 121000000 positionsprocessed 122000000 positionsprocessed 123000000 positionsprocessed 124000000 positionsprocessed 125000000 positionsprocessed 126000000 positionsprocessed 127000000 positionsprocessed 128000000 positionsprocessed 129000000 positionsprocessed 130000000 positionsprocessed 131000000 positionsprocessed 132000000 positionsprocessed 133000000 positionsprocessed 134000000 positionsprocessed 135000000 positionsprocessed 136000000 positionsprocessed 137000000 positionsprocessed 138000000 positionsprocessed 139000000 positionsprocessed 140000000 positionsprocessed 141000000 positionsprocessed 142000000 positionsprocessed 143000000 positionsprocessed 144000000 positionsprocessed 145000000 positionsprocessed 146000000 positionsprocessed 147000000 positionsprocessed 148000000 positionsprocessed 149000000 positionsprocessed 150000000 positionsprocessed 151000000 positionsprocessed 152000000 positionsprocessed 153000000 positionsprocessed 154000000 positionsprocessed 155000000 positionsprocessed 156000000 positionsprocessed 157000000 positionsprocessed 158000000 positionsprocessed 159000000 positionsprocessed 160000000 positionsprocessed 161000000 positionsprocessed 162000000 positionsprocessed 163000000 positionsprocessed 164000000 positionsprocessed 165000000 positionsprocessed 166000000 positionsprocessed 167000000 positionsprocessed 168000000 positionsprocessed 169000000 positionsprocessed 170000000 positionsprocessed 171000000 positionsprocessed 172000000 positionsprocessed 173000000 positionsprocessed 174000000 positionsprocessed 175000000 positionsprocessed 176000000 positionsprocessed 177000000 positionsprocessed 178000000 positionsprocessed 179000000 positionsprocessed 180000000 positionsprocessed 181000000 positionsprocessed 182000000 positionsprocessed 183000000 positionsprocessed 184000000 positionsprocessed 185000000 positionsprocessed 186000000 positionsprocessed 187000000 positionsprocessed 188000000 positionsprocessed 189000000 positionsprocessed 190000000 positionsprocessed 191000000 positionsprocessed 192000000 positionsprocessed 193000000 positionsprocessed 194000000 positionsprocessed 195000000 positionsprocessed 196000000 positionsprocessed 197000000 positionsprocessed 198000000 positionsprocessed 199000000 positionsprocessed 200000000 positionsprocessed 201000000 positionsprocessed 202000000 positionsprocessed 203000000 positionsprocessed 204000000 positionsprocessed 205000000 positionsprocessed 206000000 positionsprocessed 207000000 positionsprocessed 208000000 positionsprocessed 209000000 positionsprocessed 210000000 positionsprocessed 211000000 positionsprocessed 212000000 positionsprocessed 213000000 positionsprocessed 214000000 positionsprocessed 215000000 positionsprocessed 216000000 positionsprocessed 217000000 positionsprocessed 218000000 positionsprocessed 219000000 positionsprocessed 220000000 positionsprocessed 221000000 positionsprocessed 222000000 positionsprocessed 223000000 positionsprocessed 224000000 positionsprocessed 225000000 positionsprocessed 226000000 positionsprocessed 227000000 positionsprocessed 228000000 positionsprocessed 229000000 positionsprocessed 230000000 positionsprocessed 231000000 positionsprocessed 232000000 positionsprocessed 233000000 positionsprocessed 234000000 positionsprocessed 235000000 positionsprocessed 236000000 positionsprocessed 237000000 positionsprocessed 238000000 positionsprocessed 239000000 positionsprocessed 240000000 positionsprocessed 241000000 positionsprocessed 242000000 positionsprocessed 243000000 positionsprocessed 244000000 positionsprocessed 245000000 positionsprocessed 246000000 positionsprocessed 247000000 positionsprocessed 248000000 positionsprocessed 249000000 positionsprocessed 250000000 positionsprocessed 251000000 positionsprocessed 252000000 positionsprocessed 253000000 positionsprocessed 254000000 positionsprocessed 255000000 positionsprocessed 256000000 positionsprocessed 257000000 positionsprocessed 258000000 positionsprocessed 259000000 positionsprocessed 260000000 positionsprocessed 261000000 positionsprocessed 262000000 positionsprocessed 263000000 positionsprocessed 264000000 positionsprocessed 265000000 positionsprocessed 266000000 positionsprocessed 267000000 positionsprocessed 268000000 positionsprocessed 269000000 positionsprocessed 270000000 positionsprocessed 271000000 positionsprocessed 272000000 positionsprocessed 273000000 positionsprocessed 274000000 positionsprocessed 275000000 positionsprocessed 276000000 positionsprocessed 277000000 positionsprocessed 278000000 positionsprocessed 279000000 positionsprocessed 280000000 positionsprocessed 281000000 positionsprocessed 282000000 positionsprocessed 283000000 positionsprocessed 284000000 positionsprocessed 285000000 positionsprocessed 286000000 positionsprocessed 287000000 positionsprocessed 288000000 positionsprocessed 289000000 positionsprocessed 290000000 positionsprocessed 291000000 positionsprocessed 292000000 positionsprocessed 293000000 positionsprocessed 294000000 positionsprocessed 295000000 positionsprocessed 296000000 positionsprocessed 297000000 positionsprocessed 298000000 positionsprocessed 299000000 positionsprocessed 300000000 positionsprocessed 301000000 positionsprocessed 302000000 positionsprocessed 303000000 positionsprocessed 304000000 positionsprocessed 305000000 positionsprocessed 306000000 positionsprocessed 307000000 positionsprocessed 308000000 positionsprocessed 309000000 positionsprocessed 310000000 positionsprocessed 311000000 positionsprocessed 312000000 positionsprocessed 313000000 positionsprocessed 314000000 positionsprocessed 315000000 positionsprocessed 316000000 positionsprocessed 317000000 positionsprocessed 318000000 positionsprocessed 319000000 positionsprocessed 320000000 positionsprocessed 321000000 positionsprocessed 322000000 positionsprocessed 323000000 positionsprocessed 324000000 positionsprocessed 325000000 positionsprocessed 326000000 positionsprocessed 327000000 positionsprocessed 328000000 positionsprocessed 329000000 positionsprocessed 330000000 positionsprocessed 331000000 positionsprocessed 332000000 positionsprocessed 333000000 positionsprocessed 334000000 positionsprocessed 335000000 positionsprocessed 336000000 positionsprocessed 337000000 positionsprocessed 338000000 positionsprocessed 339000000 positionsprocessed 340000000 positionsprocessed 341000000 positionsprocessed 342000000 positionsprocessed 343000000 positionsprocessed 344000000 positionsprocessed 345000000 positionsprocessed 346000000 positionsprocessed 347000000 positionsprocessed 348000000 positionsprocessed 349000000 positionsprocessed 350000000 positionsprocessed 351000000 positionsprocessed 352000000 positionsprocessed 353000000 positionsprocessed 354000000 positionsprocessed 355000000 positionsprocessed 356000000 positionsprocessed 357000000 positionsprocessed 358000000 positionsprocessed 359000000 positionsprocessed 360000000 positionsprocessed 361000000 positionsprocessed 362000000 positionsprocessed 363000000 positionsprocessed 364000000 positionsprocessed 365000000 positionsprocessed 366000000 positionsprocessed 367000000 positionsprocessed 368000000 positionsprocessed 369000000 positionsprocessed 370000000 positionsprocessed 371000000 positionsprocessed 372000000 positionsprocessed 373000000 positionsprocessed 374000000 positionsprocessed 375000000 positionsprocessed 376000000 positionsprocessed 377000000 positionsprocessed 378000000 positionsprocessed 379000000 positionsprocessed 380000000 positionsprocessed 381000000 positionsprocessed 382000000 positionsprocessed 383000000 positionsprocessed 384000000 positionsprocessed 385000000 positionsprocessed 386000000 positionsprocessed 387000000 positionsprocessed 388000000 positionsprocessed 389000000 positionsprocessed 390000000 positionsprocessed 391000000 positionsprocessed 392000000 positionsprocessed 393000000 positionsprocessed 394000000 positionsprocessed 395000000 positionsprocessed 396000000 positionsprocessed 397000000 positionsprocessed 398000000 positionsprocessed 399000000 positionsprocessed 400000000 positionsprocessed 401000000 positionsprocessed 402000000 positionsprocessed 403000000 positionsprocessed 404000000 positionsprocessed 405000000 positionsprocessed 406000000 positionsprocessed 407000000 positionsprocessed 408000000 positionsprocessed 409000000 positionsprocessed 410000000 positionsprocessed 411000000 positionsprocessed 412000000 positionsprocessed 413000000 positionsprocessed 414000000 positionsprocessed 415000000 positionsprocessed 416000000 positionsprocessed 417000000 positionsprocessed 418000000 positionsprocessed 419000000 positionsprocessed 420000000 positionsprocessed 421000000 positionsprocessed 422000000 positionsprocessed 423000000 positionsprocessed 424000000 positionsprocessed 425000000 positionsprocessed 426000000 positionsprocessed 427000000 positionsprocessed 428000000 positionsprocessed 429000000 positionsprocessed 430000000 positionsprocessed 431000000 positionsprocessed 432000000 positionsprocessed 433000000 positionsprocessed 434000000 positionsprocessed 435000000 positionsprocessed 436000000 positionsprocessed 437000000 positionsprocessed 438000000 positionsprocessed 439000000 positionsprocessed 440000000 positionsprocessed 441000000 positionsprocessed 442000000 positionsprocessed 443000000 positionsprocessed 444000000 positionsprocessed 445000000 positionsprocessed 446000000 positionsprocessed 447000000 positionsprocessed 448000000 positionsprocessed 449000000 positionsprocessed 450000000 positionsprocessed 451000000 positionsprocessed 452000000 positionsprocessed 453000000 positionsprocessed 454000000 positionsprocessed 455000000 positionsprocessed 456000000 positionsprocessed 457000000 positionsprocessed 458000000 positionsprocessed 459000000 positionsprocessed 460000000 positionsprocessed 461000000 positionsprocessed 462000000 positionsprocessed 463000000 positionsprocessed 464000000 positionsprocessed 465000000 positionsprocessed 466000000 positionsprocessed 467000000 positionsprocessed 468000000 positionsprocessed 469000000 positionsprocessed 470000000 positionsprocessed 471000000 positionsprocessed 472000000 positionsprocessed 473000000 positionsprocessed 474000000 positionsprocessed 475000000 positionsprocessed 476000000 positionsprocessed 477000000 positionsprocessed 478000000 positionsprocessed 479000000 positionsprocessed 480000000 positionsprocessed 481000000 positionsprocessed 482000000 positionsprocessed 483000000 positionsprocessed 484000000 positionsprocessed 485000000 positionsprocessed 486000000 positionsprocessed 487000000 positionsprocessed 488000000 positionsprocessed 489000000 positionsprocessed 490000000 positionsprocessed 491000000 positionsprocessed 492000000 positionsprocessed 493000000 positionsprocessed 494000000 positionsprocessed 495000000 positionsprocessed 496000000 positionsprocessed 497000000 positionsprocessed 498000000 positionsprocessed 499000000 positionsprocessed 500000000 positionsprocessed 501000000 positionsprocessed 502000000 positionsprocessed 503000000 positionsprocessed 504000000 positionsprocessed 505000000 positionsprocessed 506000000 positionsprocessed 507000000 positionsprocessed 508000000 positionsprocessed 509000000 positionsprocessed 510000000 positionsprocessed 511000000 positionsprocessed 512000000 positionsprocessed 513000000 positionsprocessed 514000000 positionsprocessed 515000000 positionsprocessed 516000000 positionsprocessed 517000000 positionsprocessed 518000000 positionsprocessed 519000000 positionsprocessed 520000000 positionsprocessed 521000000 positionsprocessed 522000000 positionsprocessed 523000000 positionsprocessed 524000000 positionsprocessed 525000000 positionsprocessed 526000000 positionsprocessed 527000000 positionsprocessed 528000000 positionsprocessed 529000000 positionsprocessed 530000000 positionsprocessed 531000000 positionsprocessed 532000000 positionsprocessed 533000000 positionsprocessed 534000000 positionsprocessed 535000000 positionsprocessed 536000000 positionsprocessed 537000000 positionsprocessed 538000000 positionsprocessed 539000000 positionsprocessed 540000000 positionsprocessed 541000000 positionsprocessed 542000000 positionsprocessed 543000000 positionsprocessed 544000000 positionsprocessed 545000000 positionsprocessed 546000000 positionsprocessed 547000000 positionsprocessed 548000000 positionsprocessed 549000000 positionsprocessed 550000000 positionsprocessed 551000000 positionsprocessed 552000000 positionsprocessed 553000000 positionsprocessed 554000000 positionsprocessed 555000000 positionsprocessed 556000000 positionsprocessed 557000000 positionsprocessed 558000000 positionsprocessed 559000000 positionsprocessed 560000000 positionsprocessed 561000000 positionsprocessed 562000000 positionsprocessed 563000000 positionsprocessed 564000000 positionsprocessed 565000000 positionsprocessed 566000000 positionsprocessed 567000000 positionsprocessed 568000000 positionsprocessed 569000000 positionsprocessed 570000000 positionsprocessed 571000000 positionsprocessed 572000000 positionsprocessed 573000000 positionsprocessed 574000000 positionsprocessed 575000000 positionsprocessed 576000000 positionsprocessed 577000000 positionsprocessed 578000000 positionsprocessed 579000000 positionsprocessed 580000000 positionsprocessed 581000000 positionsprocessed 582000000 positionsprocessed 583000000 positionsprocessed 584000000 positionsprocessed 585000000 positionsprocessed 586000000 positionsprocessed 587000000 positionsprocessed 588000000 positionsprocessed 589000000 positionsprocessed 590000000 positionsprocessed 591000000 positionsprocessed 592000000 positionsprocessed 593000000 positionsprocessed 594000000 positionsprocessed 595000000 positionsprocessed 596000000 positionsprocessed 597000000 positionsprocessed 598000000 positionsprocessed 599000000 positionsprocessed 600000000 positionsprocessed 601000000 positionsprocessed 602000000 positionsprocessed 603000000 positionsprocessed 604000000 positionsprocessed 605000000 positionsprocessed 606000000 positionsprocessed 607000000 positionsprocessed 608000000 positionsprocessed 609000000 positionsprocessed 610000000 positionsprocessed 611000000 positionsprocessed 612000000 positionsprocessed 613000000 positionsprocessed 614000000 positionsprocessed 615000000 positionsprocessed 616000000 positionsprocessed 617000000 positionsprocessed 618000000 positionsprocessed 619000000 positionsprocessed 620000000 positionsprocessed 621000000 positionsprocessed 622000000 positionsprocessed 623000000 positionsprocessed 624000000 positionsprocessed 625000000 positionsprocessed 626000000 positionsprocessed 627000000 positionsprocessed 628000000 positionsprocessed 629000000 positionsprocessed 630000000 positionsprocessed 631000000 positionsprocessed 632000000 positionsprocessed 633000000 positionsprocessed 634000000 positionsprocessed 635000000 positionsprocessed 636000000 positionsprocessed 637000000 positionsprocessed 638000000 positionsprocessed 639000000 positionsprocessed 640000000 positionsprocessed 641000000 positionsprocessed 642000000 positionsprocessed 643000000 positionsprocessed 644000000 positionsprocessed 645000000 positionsprocessed 646000000 positionsprocessed 647000000 positionsprocessed 648000000 positionsprocessed 649000000 positionsprocessed 650000000 positionsprocessed 651000000 positionsprocessed 652000000 positionsprocessed 653000000 positionsprocessed 654000000 positionsprocessed 655000000 positionsprocessed 656000000 positionsprocessed 657000000 positionsprocessed 658000000 positionsprocessed 659000000 positionsprocessed 660000000 positionsprocessed 661000000 positionsprocessed 662000000 positionsprocessed 663000000 positionsprocessed 664000000 positionsprocessed 665000000 positionsprocessed 666000000 positionsprocessed 667000000 positionsprocessed 668000000 positionsprocessed 669000000 positionsprocessed 670000000 positionsprocessed 671000000 positionsprocessed 672000000 positionsprocessed 673000000 positionsprocessed 674000000 positionsprocessed 675000000 positionsprocessed 676000000 positionsprocessed 677000000 positionsprocessed 678000000 positionsprocessed 679000000 positionsprocessed 680000000 positionsprocessed 681000000 positionsprocessed 682000000 positionsprocessed 683000000 positionsprocessed 684000000 positionsprocessed 685000000 positionsprocessed 686000000 positionsprocessed 687000000 positionsprocessed 688000000 positionsprocessed 689000000 positionsprocessed 690000000 positionsprocessed 691000000 positionsprocessed 692000000 positionsprocessed 693000000 positionsprocessed 694000000 positionsprocessed 695000000 positionsprocessed 696000000 positionsprocessed 697000000 positionsprocessed 698000000 positionsprocessed 699000000 positionsprocessed 700000000 positionsprocessed 701000000 positionsprocessed 702000000 positionsprocessed 703000000 positionsprocessed 704000000 positionsprocessed 705000000 positionsprocessed 706000000 positionsprocessed 707000000 positionsprocessed 708000000 positionsprocessed 709000000 positionsprocessed 710000000 positionsprocessed 711000000 positionsprocessed 712000000 positionsprocessed 713000000 positionsprocessed 714000000 positionsprocessed 715000000 positionsprocessed 716000000 positionsprocessed 717000000 positionsprocessed 718000000 positionsprocessed 719000000 positionsprocessed 720000000 positionsprocessed 721000000 positionsprocessed 722000000 positionsprocessed 723000000 positionsprocessed 724000000 positionsprocessed 725000000 positionsprocessed 726000000 positionsprocessed 727000000 positionsprocessed 728000000 positionsprocessed 729000000 positionsprocessed 730000000 positionsprocessed 731000000 positionsprocessed 732000000 positionsprocessed 733000000 positionsprocessed 734000000 positionsprocessed 735000000 positionsprocessed 736000000 positionsprocessed 737000000 positionsprocessed 738000000 positionsprocessed 739000000 positionsprocessed 740000000 positionsprocessed 741000000 positionsprocessed 742000000 positionsprocessed 743000000 positionsprocessed 744000000 positionsprocessed 745000000 positionsprocessed 746000000 positionsprocessed 747000000 positionsprocessed 748000000 positionsprocessed 749000000 positionsprocessed 750000000 positionsprocessed 751000000 positionsprocessed 752000000 positionsprocessed 753000000 positionsprocessed 754000000 positionsprocessed 755000000 positionsprocessed 756000000 positionsprocessed 757000000 positionsprocessed 758000000 positionsprocessed 759000000 positionsprocessed 760000000 positionsprocessed 761000000 positionsprocessed 762000000 positionsprocessed 763000000 positionsprocessed 764000000 positionsprocessed 765000000 positionsprocessed 766000000 positionsprocessed 767000000 positionsprocessed 768000000 positionsprocessed 769000000 positionsprocessed 770000000 positionsprocessed 771000000 positionsprocessed 772000000 positionsprocessed 773000000 positionsprocessed 774000000 positionsprocessed 775000000 positionsprocessed 776000000 positionsprocessed 777000000 positionsprocessed 778000000 positionsprocessed 779000000 positionsprocessed 780000000 positionsprocessed 781000000 positionsprocessed 782000000 positionsprocessed 783000000 positionsprocessed 784000000 positionsprocessed 785000000 positionsprocessed 786000000 positionsprocessed 787000000 positionsprocessed 788000000 positionsprocessed 789000000 positionsprocessed 790000000 positionsprocessed 791000000 positionsprocessed 792000000 positionsprocessed 793000000 positionsprocessed 794000000 positionsprocessed 795000000 positionsprocessed 796000000 positionsprocessed 797000000 positionsprocessed 798000000 positionsprocessed 799000000 positionsprocessed 800000000 positionsprocessed 801000000 positionsprocessed 802000000 positionsprocessed 803000000 positionsprocessed 804000000 positionsprocessed 805000000 positionsprocessed 806000000 positionsprocessed 807000000 positionsprocessed 808000000 positionsprocessed 809000000 positionsprocessed 810000000 positionsprocessed 811000000 positionsprocessed 812000000 positionsprocessed 813000000 positionsprocessed 814000000 positionsprocessed 815000000 positionsprocessed 816000000 positionsprocessed 817000000 positionsprocessed 818000000 positionsprocessed 819000000 positionsprocessed 820000000 positionsprocessed 821000000 positionsprocessed 822000000 positionsprocessed 823000000 positionsprocessed 824000000 positionsprocessed 825000000 positionsprocessed 826000000 positionsprocessed 827000000 positionsprocessed 828000000 positionsprocessed 829000000 positionsprocessed 830000000 positionsprocessed 831000000 positionsprocessed 832000000 positionsprocessed 833000000 positionsprocessed 834000000 positionsprocessed 835000000 positionsprocessed 836000000 positionsprocessed 837000000 positionsprocessed 838000000 positionsprocessed 839000000 positionsprocessed 840000000 positionsprocessed 841000000 positionsprocessed 842000000 positionsprocessed 843000000 positionsprocessed 844000000 positionsprocessed 845000000 positionsprocessed 846000000 positionsprocessed 847000000 positionsprocessed 848000000 positionsprocessed 849000000 positionsprocessed 850000000 positionsprocessed 851000000 positionsprocessed 852000000 positionsprocessed 853000000 positionsprocessed 854000000 positionsprocessed 855000000 positionsprocessed 856000000 positionsprocessed 857000000 positionsprocessed 858000000 positionsprocessed 859000000 positionsprocessed 860000000 positionsprocessed 861000000 positionsprocessed 862000000 positionsprocessed 863000000 positionsprocessed 864000000 positionsprocessed 865000000 positionsprocessed 866000000 positionsprocessed 867000000 positionsprocessed 868000000 positionsprocessed 869000000 positionsprocessed 870000000 positionsprocessed 871000000 positionsprocessed 872000000 positionsprocessed 873000000 positionsprocessed 874000000 positionsprocessed 875000000 positionsprocessed 876000000 positionsprocessed 877000000 positionsprocessed 878000000 positionsprocessed 879000000 positionsprocessed 880000000 positionsprocessed 881000000 positionsprocessed 882000000 positionsprocessed 883000000 positionsprocessed 884000000 positionsprocessed 885000000 positionsprocessed 886000000 positionsprocessed 887000000 positionsprocessed 888000000 positionsprocessed 889000000 positionsprocessed 890000000 positionsprocessed 891000000 positionsprocessed 892000000 positionsprocessed 893000000 positionsprocessed 894000000 positionsprocessed 895000000 positionsprocessed 896000000 positionsprocessed 897000000 positionsprocessed 898000000 positionsprocessed 899000000 positionsprocessed 900000000 positionsprocessed 901000000 positionsprocessed 902000000 positionsprocessed 903000000 positionsprocessed 904000000 positionsprocessed 905000000 positionsprocessed 906000000 positionsprocessed 907000000 positionsprocessed 908000000 positionsprocessed 909000000 positionsprocessed 910000000 positionsprocessed 911000000 positionsprocessed 912000000 positionsprocessed 913000000 positionsprocessed 914000000 positionsprocessed 915000000 positionsprocessed 916000000 positionsprocessed 917000000 positionsprocessed 918000000 positionsprocessed 919000000 positionsprocessed 920000000 positionsprocessed 921000000 positionsprocessed 922000000 positionsprocessed 923000000 positionsprocessed 924000000 positionsprocessed 925000000 positionsprocessed 926000000 positionsprocessed 927000000 positionsprocessed 928000000 positionsprocessed 929000000 positionsprocessed 930000000 positionsprocessed 931000000 positionsprocessed 932000000 positionsprocessed 933000000 positionsprocessed 934000000 positionsprocessed 935000000 positionsprocessed 936000000 positionsprocessed 937000000 positionsprocessed 938000000 positionsprocessed 939000000 positionsprocessed 940000000 positionsprocessed 941000000 positionsprocessed 942000000 positionsprocessed 943000000 positionsprocessed 944000000 positionsprocessed 945000000 positionsprocessed 946000000 positionsprocessed 947000000 positionsprocessed 948000000 positionsprocessed 949000000 positionsprocessed 950000000 positionsprocessed 951000000 positionsprocessed 952000000 positionsprocessed 953000000 positionsprocessed 954000000 positionsprocessed 955000000 positionsprocessed 956000000 positionsprocessed 957000000 positionsprocessed 958000000 positionsprocessed 959000000 positionsprocessed 960000000 positionsprocessed 961000000 positionsprocessed 962000000 positionsprocessed 963000000 positionsprocessed 964000000 positionsprocessed 965000000 positionsprocessed 966000000 positionsprocessed 967000000 positionsprocessed 968000000 positionsprocessed 969000000 positionsprocessed 970000000 positionsprocessed 971000000 positionsprocessed 972000000 positionsprocessed 973000000 positionsprocessed 974000000 positionsprocessed 975000000 positionsprocessed 976000000 positionsprocessed 977000000 positionsprocessed 978000000 positionsprocessed 979000000 positionsprocessed 980000000 positionsprocessed 981000000 positionsprocessed 982000000 positionsprocessed 983000000 positionsprocessed 984000000 positionsprocessed 985000000 positionsprocessed 986000000 positionsprocessed 987000000 positionsprocessed 988000000 positionsprocessed 989000000 positionsprocessed 990000000 positionsprocessed 991000000 positionsprocessed 992000000 positionsprocessed 993000000 positionsprocessed 994000000 positionsprocessed 995000000 positionsprocessed 996000000 positionsprocessed 997000000 positionsprocessed 998000000 positionsprocessed 999000000 positionsprocessed 1000000000 positionsprocessed 1001000000 positionsprocessed 1002000000 positionsprocessed 1003000000 positionsprocessed 1004000000 positionsprocessed 1005000000 positionsprocessed 1006000000 positionsprocessed 1007000000 positionsprocessed 1008000000 positionsprocessed 1009000000 positionsprocessed 1010000000 positionsprocessed 1011000000 positionsprocessed 1012000000 positionsprocessed 1013000000 positionsprocessed 1014000000 positions
-khash had 990080389 keys
-saving hash to disk . . . done
-Elapsed time: 156.877s
-[2018-06-24 16:12:22.464] [jLog] [info] done building index
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_10_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_10.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_10.quant/logs
-[2018-06-24 16:12:22.769] [jointLog] [info] parsing read library format
-[2018-06-24 16:12:22.769] [jointLog] [info] There is 1 library.
-[2018-06-24 16:12:22.856] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:12:22.855] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:12:22.855] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:12:27.014] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:12:28.077] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:12:28.340] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:12:28.433] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:12:28.434] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:13:21.511] [stderrLog] [info] Done loading index
-[2018-06-24 16:13:21.511] [jointLog] [info] done
-[2018-06-24 16:13:21.511] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500002 [32mfragments[0m
-hits: 321443, hits per frag:  0.671269[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 642218, hits per frag:  0.709474[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 949004, hits per frag:  0.650765[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1270911, hits per frag:  0.644768[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1591056, hits per frag:  0.659175[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1912349, hits per frag:  0.660601[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2233827, hits per frag:  0.657878[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2553926, hits per frag:  0.658508[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2873709, hits per frag:  0.649503[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3195409, hits per frag:  0.641726[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3516845, hits per frag:  0.647939[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3837571, hits per frag:  0.642705[A[32mprocessed[31m 6500001 [32mfragments[0m
-hits: 4156484, hits per frag:  0.644896[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4477909, hits per frag:  0.649308[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4799450, hits per frag:  0.64169[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 5121591, hits per frag:  0.641438[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5442899, hits per frag:  0.641322[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5764152, hits per frag:  0.644818
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:14:15.087] [jointLog] [info] Computed 368851 rich equivalence classes for further processing
-[2018-06-24 16:14:15.087] [jointLog] [info] Counted 5856449 total reads in the equivalence classes 
-[2018-06-24 16:14:15.100] [jointLog] [warning] 0.00168383% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:14:15.100] [jointLog] [info] Mapping rate = 63.621%
-
-[2018-06-24 16:14:15.100] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:14:15.102] [jointLog] [info] Starting optimizer
-[2018-06-24 16:14:15.299] [jointLog] [info] Marked 1 weighted equivalence classes as degenerate
-[2018-06-24 16:14:15.314] [jointLog] [info] iteration = 0 | max rel diff. = 5.5294
-[2018-06-24 16:14:16.052] [jointLog] [info] iteration = 100 | max rel diff. = 0.0614395
-[2018-06-24 16:14:16.641] [jointLog] [info] iteration = 200 | max rel diff. = 0.0217287
-[2018-06-24 16:14:16.729] [jointLog] [info] iteration = 216 | max rel diff. = 0.00830392
-[2018-06-24 16:14:16.793] [jointLog] [info] Finished optimizer
-[2018-06-24 16:14:16.793] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_11_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_11.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_11.quant/logs
-[2018-06-24 16:14:23.644] [jointLog] [info] parsing read library format
-[2018-06-24 16:14:23.644] [jointLog] [info] There is 1 library.
-[2018-06-24 16:14:23.729] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:14:23.729] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:14:23.729] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:14:27.588] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:14:28.590] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:14:28.828] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:14:28.919] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:14:28.921] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:15:21.727] [stderrLog] [info] Done loading index
-[2018-06-24 16:15:21.727] [jointLog] [info] done
-[2018-06-24 16:15:21.727] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500000 [32mfragments[0m
-hits: 286848, hits per frag:  0.588278[A[32mprocessed[31m 1000001 [32mfragments[0m
-hits: 570747, hits per frag:  0.606416[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 858136, hits per frag:  0.575001[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1144916, hits per frag:  0.579252[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1431171, hits per frag:  0.593634[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1715869, hits per frag:  0.578033[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2002728, hits per frag:  0.576449[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2289158, hits per frag:  0.590134[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2575435, hits per frag:  0.583996[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 2862995, hits per frag:  0.578463[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3150544, hits per frag:  0.577685[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3437666, hits per frag:  0.585503
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:16:06.924] [jointLog] [info] Computed 256959 rich equivalence classes for further processing
-[2018-06-24 16:16:06.924] [jointLog] [info] Counted 3541018 total reads in the equivalence classes 
-[2018-06-24 16:16:06.938] [jointLog] [warning] 0.00197383% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:16:06.975] [jointLog] [warning] Only 3541018 fragments were mapped, but the number of burn-in fragments was set to 5000000.
-The effective lengths have been computed using the observed mappings.
-
-[2018-06-24 16:16:06.975] [jointLog] [info] Mapping rate = 56.8242%
-
-[2018-06-24 16:16:06.975] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:16:06.976] [jointLog] [info] Starting optimizer
-[2018-06-24 16:16:07.141] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:16:07.157] [jointLog] [info] iteration = 0 | max rel diff. = 24.418
-[2018-06-24 16:16:08.011] [jointLog] [info] iteration = 100 | max rel diff. = 0.0447177
-[2018-06-24 16:16:08.635] [jointLog] [info] iteration = 200 | max rel diff. = 0.0148274
-[2018-06-24 16:16:09.253] [jointLog] [info] iteration = 300 | max rel diff. = 0.00246144
-[2018-06-24 16:16:09.301] [jointLog] [info] Finished optimizer
-[2018-06-24 16:16:09.301] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_12_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_12.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_12.quant/logs
-[2018-06-24 16:16:17.632] [jointLog] [info] parsing read library format
-[2018-06-24 16:16:17.632] [jointLog] [info] There is 1 library.
-[2018-06-24 16:16:17.719] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:16:17.718] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:16:17.719] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:16:21.609] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:16:22.625] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:16:22.860] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:16:22.951] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:16:22.953] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:17:15.841] [jointLog] [info] done
-[2018-06-24 16:17:15.841] [jointLog] [info] Index contained 473849 targets
-[2018-06-24 16:17:15.841] [stderrLog] [info] Done loading index
-
-
-
-
-[A[32mprocessed[31m 500002 [32mfragments[0m
-hits: 323295, hits per frag:  0.817657[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 646235, hits per frag:  0.659301[A[32mprocessed[31m 1500001 [32mfragments[0m
-hits: 968816, hits per frag:  0.65579[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1284974, hits per frag:  0.669519[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1607951, hits per frag:  0.645775[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1931056, hits per frag:  0.65835[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2254162, hits per frag:  0.646108[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2577125, hits per frag:  0.659846[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2899395, hits per frag:  0.659434[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3221713, hits per frag:  0.651626[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3545397, hits per frag:  0.646245[A[32mprocessed[31m 6000001 [32mfragments[0m
-hits: 3869236, hits per frag:  0.64954[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 4192353, hits per frag:  0.656085[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4515701, hits per frag:  0.655195[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4835724, hits per frag:  0.651808[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 5157526, hits per frag:  0.645942[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5480751, hits per frag:  0.65028[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5804095, hits per frag:  0.646273[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 6127381, hits per frag:  0.646193[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6451243, hits per frag:  0.648783[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6774968, hits per frag:  0.645724[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 7098274, hits per frag:  0.650997
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:18:23.695] [jointLog] [info] Computed 361180 rich equivalence classes for further processing
-[2018-06-24 16:18:23.695] [jointLog] [info] Counted 7084445 total reads in the equivalence classes 
-[2018-06-24 16:18:23.708] [jointLog] [warning] 0.00161229% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:18:23.708] [jointLog] [info] Mapping rate = 64.1696%
-
-[2018-06-24 16:18:23.708] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:18:23.710] [jointLog] [info] Starting optimizer
-[2018-06-24 16:18:23.887] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:18:23.901] [jointLog] [info] iteration = 0 | max rel diff. = 3.72758
-[2018-06-24 16:18:24.678] [jointLog] [info] iteration = 100 | max rel diff. = 0.04623
-[2018-06-24 16:18:25.268] [jointLog] [info] iteration = 200 | max rel diff. = 0.0155689
-[2018-06-24 16:18:25.858] [jointLog] [info] iteration = 300 | max rel diff. = 0.0125198
-[2018-06-24 16:18:26.224] [jointLog] [info] iteration = 363 | max rel diff. = 0.00741383
-[2018-06-24 16:18:26.270] [jointLog] [info] Finished optimizer
-[2018-06-24 16:18:26.270] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_13_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_13.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_13.quant/logs
-[2018-06-24 16:18:33.419] [jointLog] [info] parsing read library format
-[2018-06-24 16:18:33.419] [jointLog] [info] There is 1 library.
-[2018-06-24 16:18:33.506] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:18:33.505] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:18:33.506] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:18:37.509] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:18:38.544] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:18:38.785] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:18:38.877] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:18:38.879] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:19:31.546] [stderrLog] [info] Done loading index
-[2018-06-24 16:19:31.546] [jointLog] [info] done
-[2018-06-24 16:19:31.546] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500002 [32mfragments[0m
-hits: 304432, hits per frag:  0.70883[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 608554, hits per frag:  0.677562[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 912086, hits per frag:  0.654499[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1211896, hits per frag:  0.619168[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1516302, hits per frag:  0.609987[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1820627, hits per frag:  0.618384[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2124653, hits per frag:  0.623128[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2428453, hits per frag:  0.623122[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2732594, hits per frag:  0.614606[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3034510, hits per frag:  0.61252[A[32mprocessed[31m 5500001 [32mfragments[0m
-hits: 3338970, hits per frag:  0.616297[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3644379, hits per frag:  0.608374[A[32mprocessed[31m 6500001 [32mfragments[0m
-hits: 3949312, hits per frag:  0.616519[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4254233, hits per frag:  0.61128[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4556726, hits per frag:  0.609674[A[32mprocessed[31m 8000001 [32mfragments[0m
-hits: 4861661, hits per frag:  0.618431[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5166144, hits per frag:  0.614814[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5470645, hits per frag:  0.607959[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 5775124, hits per frag:  0.608717[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6079754, hits per frag:  0.60917[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6384104, hits per frag:  0.613487
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:20:35.717] [jointLog] [info] Computed 364443 rich equivalence classes for further processing
-[2018-06-24 16:20:35.717] [jointLog] [info] Counted 6418207 total reads in the equivalence classes 
-[2018-06-24 16:20:35.730] [jointLog] [warning] 0.00131769% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:20:35.730] [jointLog] [info] Mapping rate = 60.4088%
-
-[2018-06-24 16:20:35.730] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:20:35.742] [jointLog] [info] Starting optimizer
-[2018-06-24 16:20:35.931] [jointLog] [info] Marked 1 weighted equivalence classes as degenerate
-[2018-06-24 16:20:35.942] [jointLog] [info] iteration = 0 | max rel diff. = 1.97312
-[2018-06-24 16:20:36.707] [jointLog] [info] iteration = 100 | max rel diff. = 0.0401148
-[2018-06-24 16:20:37.281] [jointLog] [info] iteration = 200 | max rel diff. = 0.0104518
-[2018-06-24 16:20:37.856] [jointLog] [info] iteration = 300 | max rel diff. = 0.0111552
-[2018-06-24 16:20:38.430] [jointLog] [info] iteration = 400 | max rel diff. = 0.0113993
-[2018-06-24 16:20:38.435] [jointLog] [info] iteration = 402 | max rel diff. = 0.00921957
-[2018-06-24 16:20:38.499] [jointLog] [info] Finished optimizer
-[2018-06-24 16:20:38.499] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_3_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_3.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_3.quant/logs
-[2018-06-24 16:20:46.657] [jointLog] [info] parsing read library format
-[2018-06-24 16:20:46.657] [jointLog] [info] There is 1 library.
-[2018-06-24 16:20:46.745] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:20:46.744] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:20:46.744] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:20:50.742] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:20:51.772] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:20:52.013] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:20:52.105] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:20:52.107] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:21:44.765] [jointLog] [info] done
-[2018-06-24 16:21:44.765] [jointLog] [info] Index contained 473849 targets
-[2018-06-24 16:21:44.765] [stderrLog] [info] Done loading index
-
-
-
-
-[A[32mprocessed[31m 500002 [32mfragments[0m
-hits: 324738, hits per frag:  0.776487[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 649769, hits per frag:  0.682439[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 975014, hits per frag:  0.706459[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1301086, hits per frag:  0.688895[A[32mprocessed[31m 2500001 [32mfragments[0m
-hits: 1626812, hits per frag:  0.659268[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1942293, hits per frag:  0.658177[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2266810, hits per frag:  0.654892[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2591587, hits per frag:  0.66091[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2916776, hits per frag:  0.66128[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3241780, hits per frag:  0.653755[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3566994, hits per frag:  0.651995[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3892272, hits per frag:  0.653806[A[32mprocessed[31m 6500001 [32mfragments[0m
-hits: 4217603, hits per frag:  0.653483[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4543112, hits per frag:  0.652906[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4869001, hits per frag:  0.652915[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 5194798, hits per frag:  0.655037[A[32mprocessed[31m 8500001 [32mfragments[0m
-hits: 5519596, hits per frag:  0.653373[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5843989, hits per frag:  0.653544[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 6168914, hits per frag:  0.654916[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6493939, hits per frag:  0.653616[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6819442, hits per frag:  0.65384[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 7144934, hits per frag:  0.650591[A[32mprocessed[31m 11500000 [32mfragments[0m
-hits: 7470599, hits per frag:  0.649982[A[32mprocessed[31m 12000000 [32mfragments[0m
-hits: 7795763, hits per frag:  0.649942[A[32mprocessed[31m 12500000 [32mfragments[0m
-hits: 8118416, hits per frag:  0.652946[A[32mprocessed[31m 13000000 [32mfragments[0m
-hits: 8442567, hits per frag:  0.654419[A[32mprocessed[31m 13500001 [32mfragments[0m
-hits: 8767047, hits per frag:  0.652001[A[32mprocessed[31m 14000000 [32mfragments[0m
-hits: 9091069, hits per frag:  0.651645[A[32mprocessed[31m 14500000 [32mfragments[0m
-hits: 9415267, hits per frag:  0.652654[A[32mprocessed[31m 15000000 [32mfragments[0m
-hits: 9739964, hits per frag:  0.64943[A[32mprocessed[31m 15500000 [32mfragments[0m
-hits: 10064482, hits per frag:  0.652553[A[32mprocessed[31m 16000000 [32mfragments[0m
-hits: 10389583, hits per frag:  0.653334[A[32mprocessed[31m 16500000 [32mfragments[0m
-hits: 10714689, hits per frag:  0.649842[A[32mprocessed[31m 17000001 [32mfragments[0m
-hits: 11040280, hits per frag:  0.650495[A[32mprocessed[31m 17500000 [32mfragments[0m
-hits: 11366380, hits per frag:  0.649623
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:23:37.275] [jointLog] [info] Computed 423361 rich equivalence classes for further processing
-[2018-06-24 16:23:37.275] [jointLog] [info] Counted 11389641 total reads in the equivalence classes 
-[2018-06-24 16:23:37.288] [jointLog] [warning] 0.00123564% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:23:37.288] [jointLog] [info] Mapping rate = 64.5571%
-
-[2018-06-24 16:23:37.288] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:23:37.305] [jointLog] [info] Starting optimizer
-[2018-06-24 16:23:37.512] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:23:37.522] [jointLog] [info] iteration = 0 | max rel diff. = 7.01618
-[2018-06-24 16:23:38.218] [jointLog] [info] iteration = 100 | max rel diff. = 0.0426782
-[2018-06-24 16:23:38.776] [jointLog] [info] iteration = 200 | max rel diff. = 0.0238342
-[2018-06-24 16:23:39.111] [jointLog] [info] iteration = 261 | max rel diff. = 0.00772478
-[2018-06-24 16:23:39.173] [jointLog] [info] Finished optimizer
-[2018-06-24 16:23:39.173] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_4_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_4.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_4.quant/logs
-[2018-06-24 16:23:46.010] [jointLog] [info] parsing read library format
-[2018-06-24 16:23:46.010] [jointLog] [info] There is 1 library.
-[2018-06-24 16:23:46.099] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:23:46.098] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:23:46.098] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:23:50.185] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:23:51.246] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:23:51.913] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:23:52.006] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:23:52.008] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:24:44.102] [stderrLog] [info] Done loading index
-[2018-06-24 16:24:44.102] [jointLog] [info] done
-[2018-06-24 16:24:44.102] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500002 [32mfragments[0m
-hits: 328056, hits per frag:  0.66344[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 656422, hits per frag:  0.673017[A[32mprocessed[31m 1500001 [32mfragments[0m
-hits: 985397, hits per frag:  0.678784[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1314999, hits per frag:  0.662806[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1628232, hits per frag:  0.658349[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1954290, hits per frag:  0.683237[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2282265, hits per frag:  0.666683[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2610318, hits per frag:  0.669046[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2938807, hits per frag:  0.665226[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3267988, hits per frag:  0.657195[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3596563, hits per frag:  0.655843[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3925276, hits per frag:  0.658763[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 4253953, hits per frag:  0.668766[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4581318, hits per frag:  0.657294[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4908927, hits per frag:  0.663534[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 5237093, hits per frag:  0.664027[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5565754, hits per frag:  0.65536[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5894575, hits per frag:  0.661935[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 6221048, hits per frag:  0.66042[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6546560, hits per frag:  0.657419[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6872622, hits per frag:  0.65992[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 7199817, hits per frag:  0.65523[A[32mprocessed[31m 11500000 [32mfragments[0m
-hits: 7527231, hits per frag:  0.656326[A[32mprocessed[31m 12000000 [32mfragments[0m
-hits: 7854885, hits per frag:  0.657097[A[32mprocessed[31m 12500000 [32mfragments[0m
-hits: 8183844, hits per frag:  0.658084[A[32mprocessed[31m 13000000 [32mfragments[0m
-hits: 8512111, hits per frag:  0.658257[A[32mprocessed[31m 13500000 [32mfragments[0m
-hits: 8841102, hits per frag:  0.655872
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:26:10.985] [jointLog] [info] Computed 395519 rich equivalence classes for further processing
-[2018-06-24 16:26:10.985] [jointLog] [info] Counted 8931245 total reads in the equivalence classes 
-[2018-06-24 16:26:10.998] [jointLog] [warning] 0.00131862% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:26:10.998] [jointLog] [info] Mapping rate = 65.0657%
-
-[2018-06-24 16:26:10.998] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:26:11.013] [jointLog] [info] Starting optimizer
-[2018-06-24 16:26:11.216] [jointLog] [info] Marked 1 weighted equivalence classes as degenerate
-[2018-06-24 16:26:11.230] [jointLog] [info] iteration = 0 | max rel diff. = 3.30967
-[2018-06-24 16:26:12.009] [jointLog] [info] iteration = 100 | max rel diff. = 0.0427228
-[2018-06-24 16:26:12.579] [jointLog] [info] iteration = 200 | max rel diff. = 0.0162012
-[2018-06-24 16:26:13.149] [jointLog] [info] iteration = 300 | max rel diff. = 0.0113723
-[2018-06-24 16:26:13.685] [jointLog] [info] iteration = 395 | max rel diff. = 0.000117132
-[2018-06-24 16:26:13.749] [jointLog] [info] Finished optimizer
-[2018-06-24 16:26:13.749] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_5_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_5.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_5.quant/logs
-[2018-06-24 16:26:20.766] [jointLog] [info] parsing read library format
-[2018-06-24 16:26:20.766] [jointLog] [info] There is 1 library.
-[2018-06-24 16:26:20.853] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:26:20.853] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:26:20.853] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:26:24.733] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:26:27.728] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:26:27.961] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:26:28.051] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:26:28.053] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:27:18.900] [stderrLog] [info] Done loading index
-[2018-06-24 16:27:18.900] [jointLog] [info] done
-[2018-06-24 16:27:18.900] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500001 [32mfragments[0m
-hits: 269946, hits per frag:  0.595529[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 539648, hits per frag:  0.5954[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 802225, hits per frag:  0.53536[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1071871, hits per frag:  0.540744[A[32mprocessed[31m 2500001 [32mfragments[0m
-hits: 1341591, hits per frag:  0.55459[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1610943, hits per frag:  0.544474[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 1879610, hits per frag:  0.540031[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2145832, hits per frag:  0.543398[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2415867, hits per frag:  0.548078[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 2685850, hits per frag:  0.544217[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 2955992, hits per frag:  0.544351[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3217354, hits per frag:  0.543193[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 3487408, hits per frag:  0.547132[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 3757435, hits per frag:  0.542019[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4027221, hits per frag:  0.54534[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 4297159, hits per frag:  0.545805
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:28:19.388] [jointLog] [info] Computed 262144 rich equivalence classes for further processing
-[2018-06-24 16:28:19.388] [jointLog] [info] Counted 4512839 total reads in the equivalence classes 
-[2018-06-24 16:28:19.402] [jointLog] [warning] 0.0008833% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:28:19.439] [jointLog] [warning] Only 4512839 fragments were mapped, but the number of burn-in fragments was set to 5000000.
-The effective lengths have been computed using the observed mappings.
-
-[2018-06-24 16:28:19.439] [jointLog] [info] Mapping rate = 53.1492%
-
-[2018-06-24 16:28:19.439] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:28:19.441] [jointLog] [info] Starting optimizer
-[2018-06-24 16:28:19.613] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:28:19.621] [jointLog] [info] iteration = 0 | max rel diff. = 25.0112
-[2018-06-24 16:28:20.361] [jointLog] [info] iteration = 100 | max rel diff. = 0.0490735
-[2018-06-24 16:28:20.983] [jointLog] [info] iteration = 200 | max rel diff. = 0.0263416
-[2018-06-24 16:28:21.386] [jointLog] [info] iteration = 266 | max rel diff. = 0.00749226
-[2018-06-24 16:28:21.452] [jointLog] [info] Finished optimizer
-[2018-06-24 16:28:21.452] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_6_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_6.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_6.quant/logs
-[2018-06-24 16:28:29.569] [jointLog] [info] parsing read library format
-[2018-06-24 16:28:29.569] [jointLog] [info] There is 1 library.
-[2018-06-24 16:28:29.657] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:28:29.656] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:28:29.657] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:28:33.728] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:28:34.795] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:28:35.036] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:28:35.129] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:28:35.131] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:29:27.540] [stderrLog] [info] Done loading index
-[2018-06-24 16:29:27.540] [jointLog] [info] done
-[2018-06-24 16:29:27.540] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500001 [32mfragments[0m
-hits: 296142, hits per frag:  0.675198[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 592132, hits per frag:  0.596188[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 886893, hits per frag:  0.61384[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1180635, hits per frag:  0.591131[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1468306, hits per frag:  0.609072[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1763706, hits per frag:  0.605111[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2059273, hits per frag:  0.591389[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2355311, hits per frag:  0.591714[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2651038, hits per frag:  0.605278[A[32mprocessed[31m 5000001 [32mfragments[0m
-hits: 2946342, hits per frag:  0.608867[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3241626, hits per frag:  0.600445[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3535962, hits per frag:  0.596725[A[32mprocessed[31m 6500001 [32mfragments[0m
-hits: 3829737, hits per frag:  0.591456[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4126022, hits per frag:  0.593287[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4422352, hits per frag:  0.595295[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 4718322, hits per frag:  0.594147[A[32mprocessed[31m 8500001 [32mfragments[0m
-hits: 5014535, hits per frag:  0.596091[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5310064, hits per frag:  0.595022[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 5599287, hits per frag:  0.591216[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 5894041, hits per frag:  0.592075[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6190132, hits per frag:  0.590246[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 6486514, hits per frag:  0.591094[A[32mprocessed[31m 11500000 [32mfragments[0m
-hits: 6782991, hits per frag:  0.594731[A[32mprocessed[31m 12000000 [32mfragments[0m
-hits: 7079039, hits per frag:  0.590482[A[32mprocessed[31m 12500000 [32mfragments[0m
-hits: 7375177, hits per frag:  0.590139[A[32mprocessed[31m 13000001 [32mfragments[0m
-hits: 7671158, hits per frag:  0.595448[A[32mprocessed[31m 13500000 [32mfragments[0m
-hits: 7966996, hits per frag:  0.594031
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:30:56.291] [jointLog] [info] Computed 375964 rich equivalence classes for further processing
-[2018-06-24 16:30:56.291] [jointLog] [info] Counted 8001110 total reads in the equivalence classes 
-[2018-06-24 16:30:56.305] [jointLog] [warning] 0.00109053% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:30:56.305] [jointLog] [info] Mapping rate = 58.56%
-
-[2018-06-24 16:30:56.305] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:30:56.306] [jointLog] [info] Starting optimizer
-[2018-06-24 16:30:56.498] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:30:56.508] [jointLog] [info] iteration = 0 | max rel diff. = 6.04627
-[2018-06-24 16:30:57.244] [jointLog] [info] iteration = 100 | max rel diff. = 0.0461586
-[2018-06-24 16:30:57.536] [jointLog] [info] iteration = 152 | max rel diff. = 0.00849691
-[2018-06-24 16:30:57.600] [jointLog] [info] Finished optimizer
-[2018-06-24 16:30:57.600] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_7_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_7.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_7.quant/logs
-[2018-06-24 16:31:04.585] [jointLog] [info] parsing read library format
-[2018-06-24 16:31:04.585] [jointLog] [info] There is 1 library.
-[2018-06-24 16:31:04.674] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:31:04.673] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:31:04.674] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:31:08.604] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:31:09.621] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:31:09.857] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:31:09.949] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:31:09.951] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:32:02.730] [stderrLog] [info] Done loading index
-[2018-06-24 16:32:02.730] [jointLog] [info] done
-[2018-06-24 16:32:02.730] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500003 [32mfragments[0m
-hits: 340583, hits per frag:  0.893926[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 681064, hits per frag:  0.744072[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 1020833, hits per frag:  0.710201[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1359633, hits per frag:  0.701514[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1693434, hits per frag:  0.69519[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 2034031, hits per frag:  0.683954[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2374826, hits per frag:  0.682872[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2715244, hits per frag:  0.697775[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 3055614, hits per frag:  0.681679[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3396196, hits per frag:  0.692348[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3735195, hits per frag:  0.687394[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 4075662, hits per frag:  0.683164[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 4416196, hits per frag:  0.690004[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 4756917, hits per frag:  0.683774[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 5097554, hits per frag:  0.682209[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 5438384, hits per frag:  0.686801[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5771987, hits per frag:  0.679335[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 6112378, hits per frag:  0.684802[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 6452768, hits per frag:  0.686224[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6793143, hits per frag:  0.681747[A[32mprocessed[31m 10500001 [32mfragments[0m
-hits: 7133940, hits per frag:  0.683835[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 7474775, hits per frag:  0.68048[A[32mprocessed[31m 11500001 [32mfragments[0m
-hits: 7815587, hits per frag:  0.680062[A[32mprocessed[31m 12000000 [32mfragments[0m
-hits: 8156291, hits per frag:  0.683982
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:33:14.391] [jointLog] [info] Computed 383875 rich equivalence classes for further processing
-[2018-06-24 16:33:14.391] [jointLog] [info] Counted 8130209 total reads in the equivalence classes 
-[2018-06-24 16:33:14.405] [jointLog] [warning] 0.00100604% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:33:14.405] [jointLog] [info] Mapping rate = 67.5977%
-
-[2018-06-24 16:33:14.405] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:33:14.407] [jointLog] [info] Starting optimizer
-[2018-06-24 16:33:14.602] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:33:14.616] [jointLog] [info] iteration = 0 | max rel diff. = 1.94007
-[2018-06-24 16:33:15.375] [jointLog] [info] iteration = 100 | max rel diff. = 0.0635681
-[2018-06-24 16:33:15.617] [jointLog] [info] iteration = 144 | max rel diff. = 0.00870718
-[2018-06-24 16:33:15.681] [jointLog] [info] Finished optimizer
-[2018-06-24 16:33:15.681] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_8_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_8.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_8.quant/logs
-[2018-06-24 16:33:22.645] [jointLog] [info] parsing read library format
-[2018-06-24 16:33:22.645] [jointLog] [info] There is 1 library.
-[2018-06-24 16:33:22.734] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:33:22.733] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:33:22.733] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:33:26.822] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:33:27.864] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:33:28.104] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:33:28.197] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:33:28.199] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:34:21.031] [jointLog] [info] done
-[2018-06-24 16:34:21.031] [jointLog] [info] Index contained 473849 targets
-[2018-06-24 16:34:21.031] [stderrLog] [info] Done loading index
-
-
-
-
-[A[32mprocessed[31m 500003 [32mfragments[0m
-hits: 315451, hits per frag:  0.866709[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 630745, hits per frag:  0.671533[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 946027, hits per frag:  0.641662[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1253698, hits per frag:  0.653826[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1569868, hits per frag:  0.652747[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 1885641, hits per frag:  0.633044[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2200638, hits per frag:  0.639464[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2516164, hits per frag:  0.641753[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 2831250, hits per frag:  0.637851[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 3145621, hits per frag:  0.631293[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 3460693, hits per frag:  0.632554[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 3776048, hits per frag:  0.635147[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 4092310, hits per frag:  0.630213[A[32mprocessed[31m 7000001 [32mfragments[0m
-hits: 4408261, hits per frag:  0.632475[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 4722369, hits per frag:  0.631115[A[32mprocessed[31m 8000001 [32mfragments[0m
-hits: 5034543, hits per frag:  0.640431[A[32mprocessed[31m 8500000 [32mfragments[0m
-hits: 5350070, hits per frag:  0.629747[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 5665887, hits per frag:  0.636824[A[32mprocessed[31m 9500000 [32mfragments[0m
-hits: 5980976, hits per frag:  0.632228[A[32mprocessed[31m 10000000 [32mfragments[0m
-hits: 6296443, hits per frag:  0.634814[A[32mprocessed[31m 10500000 [32mfragments[0m
-hits: 6612259, hits per frag:  0.635802[A[32mprocessed[31m 11000000 [32mfragments[0m
-hits: 6927848, hits per frag:  0.630977
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:35:33.614] [jointLog] [info] Computed 367601 rich equivalence classes for further processing
-[2018-06-24 16:35:33.614] [jointLog] [info] Counted 6951598 total reads in the equivalence classes 
-[2018-06-24 16:35:33.627] [jointLog] [warning] 0.00141393% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:35:33.627] [jointLog] [info] Mapping rate = 62.6057%
-
-[2018-06-24 16:35:33.627] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:35:33.634] [jointLog] [info] Starting optimizer
-[2018-06-24 16:35:33.818] [jointLog] [info] Marked 1 weighted equivalence classes as degenerate
-[2018-06-24 16:35:33.826] [jointLog] [info] iteration = 0 | max rel diff. = 1.85944
-[2018-06-24 16:35:34.508] [jointLog] [info] iteration = 100 | max rel diff. = 0.0331866
-[2018-06-24 16:35:35.079] [jointLog] [info] iteration = 200 | max rel diff. = 0.0153187
-[2018-06-24 16:35:35.593] [jointLog] [info] iteration = 291 | max rel diff. = 0.00982933
-[2018-06-24 16:35:35.656] [jointLog] [info] Finished optimizer
-[2018-06-24 16:35:35.656] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_517_9_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_9.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_517_9.quant/logs
-[2018-06-24 16:35:42.675] [jointLog] [info] parsing read library format
-[2018-06-24 16:35:42.675] [jointLog] [info] There is 1 library.
-[2018-06-24 16:35:42.765] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:35:42.764] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:35:42.764] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:35:46.836] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:35:47.873] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:35:48.114] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:35:48.206] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:35:48.208] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:36:40.860] [jointLog] [info] done
-[2018-06-24 16:36:40.860] [jointLog] [info] Index contained 473849 targets
-[2018-06-24 16:36:40.860] [stderrLog] [info] Done loading index
-
-
-
-
-[A[32mprocessed[31m 500000 [32mfragments[0m
-hits: 337660, hits per frag:  0.74649[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 673878, hits per frag:  0.681854[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 1012318, hits per frag:  0.684394[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1348737, hits per frag:  0.701268[A[32mprocessed[31m 2500000 [32mfragments[0m
-hits: 1686767, hits per frag:  0.698034[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 2022468, hits per frag:  0.685137[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 2360559, hits per frag:  0.694099[A[32mprocessed[31m 4000000 [32mfragments[0m
-hits: 2698048, hits per frag:  0.684663
-
-
-
-[2018-06-24 16:37:05.400] [jointLog] [info] Computed 284372 rich equivalence classes for further processing
-[2018-06-24 16:37:05.400] [jointLog] [info] Counted 2753307 total reads in the equivalence classes 
-
-
-
-
-
-
-[2018-06-24 16:37:05.413] [jointLog] [warning] 0.00155863% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:37:05.450] [jointLog] [warning] Only 2753307 fragments were mapped, but the number of burn-in fragments was set to 5000000.
-The effective lengths have been computed using the observed mappings.
-
-[2018-06-24 16:37:05.450] [jointLog] [info] Mapping rate = 67.0531%
-
-[2018-06-24 16:37:05.450] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:37:05.452] [jointLog] [info] Starting optimizer
-[2018-06-24 16:37:05.630] [jointLog] [info] Marked 1 weighted equivalence classes as degenerate
-[2018-06-24 16:37:05.645] [jointLog] [info] iteration = 0 | max rel diff. = 2.15382
-[2018-06-24 16:37:06.466] [jointLog] [info] iteration = 100 | max rel diff. = 0.0420321
-[2018-06-24 16:37:07.077] [jointLog] [info] iteration = 200 | max rel diff. = 0.018069
-[2018-06-24 16:37:07.688] [jointLog] [info] iteration = 300 | max rel diff. = 0.0130976
-[2018-06-24 16:37:08.286] [jointLog] [info] iteration = 399 | max rel diff. = 0.000816855
-[2018-06-24 16:37:08.351] [jointLog] [info] Finished optimizer
-[2018-06-24 16:37:08.351] [jointLog] [info] writing output 
-
-Version Info: ### A newer version of Salmon is available. ####
-###
-The newest version, available at https://github.com/COMBINE-lab/salmon/releases
-contains new features, improvements, and bug fixes; please upgrade at your
-earliest convenience.
-###
-### salmon (mapping-based) v0.9.1
-### [ program ] => salmon 
-### [ command ] => quant 
-### [ index ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/assembly_index }
-### [ libType ] => { IU }
-### [ mates1 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_1.fastq }
-### [ mates2 ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/QCd/QC_Renamed_Seqs/SERC_Zymo_Pos_Control_2.fastq }
-### [ output ] => { /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_Zymo_Pos_Control.quant }
-Logs will be written to /home-3/karoraw1@jhu.edu/scratch/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files/SERC_Zymo_Pos_Control.quant/logs
-[2018-06-24 16:37:15.078] [jointLog] [info] parsing read library format
-[2018-06-24 16:37:15.078] [jointLog] [info] There is 1 library.
-[2018-06-24 16:37:15.168] [jointLog] [info] Loading Quasi index
-[2018-06-24 16:37:15.169] [jointLog] [info] Loading 32-bit quasi index
-[2018-06-24 16:37:15.169] [stderrLog] [info] Loading Suffix Array 
-[2018-06-24 16:37:19.200] [stderrLog] [info] Loading Transcript Info 
-[2018-06-24 16:37:20.222] [stderrLog] [info] Loading Rank-Select Bit Array
-[2018-06-24 16:37:20.461] [stderrLog] [info] There were 473849 set bits in the bit array
-[2018-06-24 16:37:20.553] [stderrLog] [info] Computing transcript lengths
-[2018-06-24 16:37:20.555] [stderrLog] [info] Waiting to finish loading hash
-[2018-06-24 16:38:13.332] [stderrLog] [info] Done loading index
-[2018-06-24 16:38:13.332] [jointLog] [info] done
-[2018-06-24 16:38:13.332] [jointLog] [info] Index contained 473849 targets
-
-
-
-
-[A[32mprocessed[31m 500004 [32mfragments[0m
-hits: 471406, hits per frag:  1.35362[A[32mprocessed[31m 1000000 [32mfragments[0m
-hits: 942916, hits per frag:  0.971049[A[32mprocessed[31m 1500000 [32mfragments[0m
-hits: 1413428, hits per frag:  0.972052[A[32mprocessed[31m 2000000 [32mfragments[0m
-hits: 1881297, hits per frag:  1.0017[A[32mprocessed[31m 2500001 [32mfragments[0m
-hits: 2351953, hits per frag:  0.974022[A[32mprocessed[31m 3000000 [32mfragments[0m
-hits: 2823466, hits per frag:  0.983064[A[32mprocessed[31m 3500000 [32mfragments[0m
-hits: 3295457, hits per frag:  0.956445[A[32mprocessed[31m 4000001 [32mfragments[0m
-hits: 3767939, hits per frag:  0.950368[A[32mprocessed[31m 4500000 [32mfragments[0m
-hits: 4239922, hits per frag:  0.961676[A[32mprocessed[31m 5000000 [32mfragments[0m
-hits: 4710234, hits per frag:  0.957987[A[32mprocessed[31m 5500000 [32mfragments[0m
-hits: 5181031, hits per frag:  0.967318[A[32mprocessed[31m 6000000 [32mfragments[0m
-hits: 5651951, hits per frag:  0.948633[A[32mprocessed[31m 6500000 [32mfragments[0m
-hits: 6117244, hits per frag:  0.962861[A[32mprocessed[31m 7000000 [32mfragments[0m
-hits: 6584030, hits per frag:  0.94928[A[32mprocessed[31m 7500000 [32mfragments[0m
-hits: 7054282, hits per frag:  0.948562[A[32mprocessed[31m 8000000 [32mfragments[0m
-hits: 7524928, hits per frag:  0.965612[A[32mprocessed[31m 8500001 [32mfragments[0m
-hits: 7995829, hits per frag:  0.949644[A[32mprocessed[31m 9000000 [32mfragments[0m
-hits: 8467074, hits per frag:  0.943125
-
-
-
-
-
-
-
-
-
-[2018-06-24 16:38:51.937] [jointLog] [info] Computed 10472 rich equivalence classes for further processing
-[2018-06-24 16:38:51.937] [jointLog] [info] Counted 8892821 total reads in the equivalence classes 
-[2018-06-24 16:38:51.949] [jointLog] [warning] 0.00119465% of fragments were shorter than the k used to build the index (31).
-If this fraction is too large, consider re-building the index with a smaller k.
-The minimum read size found was 20.
-
-
-[2018-06-24 16:38:51.949] [jointLog] [info] Mapping rate = 94.016%
-
-[2018-06-24 16:38:51.949] [jointLog] [info] finished quantifyLibrary()
-[2018-06-24 16:38:51.954] [jointLog] [info] Starting optimizer
-[2018-06-24 16:38:52.078] [jointLog] [info] Marked 0 weighted equivalence classes as degenerate
-[2018-06-24 16:38:52.082] [jointLog] [info] iteration = 0 | max rel diff. = 1.66794
-[2018-06-24 16:38:52.298] [jointLog] [info] iteration = 100 | max rel diff. = 0.0356778
-[2018-06-24 16:38:52.499] [jointLog] [info] iteration = 200 | max rel diff. = 0.0202233
-[2018-06-24 16:38:52.663] [jointLog] [info] iteration = 300 | max rel diff. = 0.0208426
-[2018-06-24 16:38:52.810] [jointLog] [info] iteration = 390 | max rel diff. = 0.000117581
-[2018-06-24 16:38:52.873] [jointLog] [info] Finished optimizer
-[2018-06-24 16:38:52.873] [jointLog] [info] writing output 
-
-Starting in: /scratch/users/karoraw1@jhu.edu/Processed_data_group/SERC_051717_Shotgun_Metagenomes/Bin_Quant/alignment_files
-Loading counts from: ./SERC_517_6.quant quant.sf
-Loading counts from: ./SERC_517_11.quant quant.sf
-Loading counts from: ./SERC_517_4.quant quant.sf
-Loading counts from: ./SERC_Zymo_Pos_Control.quant quant.sf
-Loading counts from: ./SERC_517_3.quant quant.sf
-Loading counts from: ./SERC_517_10.quant quant.sf
-Loading counts from: ./SERC_517_7.quant quant.sf
-Loading counts from: ./SERC_517_9.quant quant.sf
-Loading counts from: ./SERC_517_8.quant quant.sf
-Loading counts from: ./SERC_517_5.quant quant.sf
-Loading counts from: ./SERC_517_12.quant quant.sf
-Loading counts from: ./SERC_517_13.quant quant.sf
